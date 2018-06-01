@@ -34,7 +34,7 @@ A multimedia training resource to make the initial assessment process and eye co
 
 ##  Exemplar Grids 
 
-Exemplar eye control activities for end-users with complex needs. Includes design suggestions and free downloads. [**Click here to read more...][13]**
+Exemplar eye control activities for end-users with complex needs. Includes design suggestions and free downloads. **[Click here to read more...][13]**
 
   
 For more training material and resources, [click here ...][14]
@@ -83,5 +83,5 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjkzMDQ2OSwxODY3OTA3NTAxXX0=
+eyJoaXN0b3J5IjpbMTcxNjkyNzEzMSwxODY3OTA3NTAxXX0=
 -->
