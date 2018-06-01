@@ -69,6 +69,7 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
 [The ACE Centre is leader of this work package. Click here to visit our web page and find out more about what we do][8]
 
 [1]: /Img/800px-Sarah_and_Mick.jpg
+{:height="36px" width="36px"}
 [2]: http://wiki.cogain.org/index.php/Eye_Tracker_Eyetech
 [3]: http://wiki.cogain.org/images/thumb/6/6f/Stuart.jpg/180px-Stuart.jpg
 [4]: http://wiki.cogain.org/images/thumb/e/ea/Michael01.jpg/180px-Michael01.jpg
@@ -80,7 +81,8 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0ODU3MzI0LDUwNDg1NzMyNCwtMTY1NT
-EzMDQyMCwyMDI4NTMyODA2LDIwMjg1MzI4MDYsMTk4OTYxNTgx
-NCw2OTI2ODc3MzMsNTE4MTEyMTk3LDE2MDE5MTI2NjVdfQ==
+eyJoaXN0b3J5IjpbLTE1ODMwODU1NzMsNTA0ODU3MzI0LDUwND
+g1NzMyNCwtMTY1NTEzMDQyMCwyMDI4NTMyODA2LDIwMjg1MzI4
+MDYsMTk4OTYxNTgxNCw2OTI2ODc3MzMsNTE4MTEyMTk3LDE2MD
+E5MTI2NjVdfQ==
 -->
