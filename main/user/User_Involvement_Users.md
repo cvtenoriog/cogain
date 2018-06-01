@@ -29,7 +29,7 @@ _Sarah Yeo 11 April 2006_
 
 ####  Stuart 
 
-|<center>![Stuart finds using switches for communicating too slow and hopes that eye typing will provide a faster way of saying what he wants to][3] <br>Stuart playing a game on the Tobii system <br>|
+|<center><img src="/Img/Stuart.jpg" width="200"> <br>Stuart playing a game on the Tobii system <br>|
 |---|
 
 _**Stuart**_ has athetoid cerebral palsy. This means that it is difficult for him to make any controlled movement. Attempts at a deliberate movement can result in a range of involuntary movement. When Stuart tried eye-control for writing with the Tobii system, he used it very quickly and efficiently and was soon able to use it far more quickly and comfortably than his current switch access method. He was extremely pleased and impressed by this new, quick and efficient method of computer access. However, despite this, there is no way in which eye control can replace his current switch access to assistive technology (for speech, mobility and environmental control) at present. 
@@ -69,7 +69,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
 [The ACE Centre is leader of this work package. Click here to visit our web page and find out more about what we do][8]
 
 [2]: http://wiki.cogain.org/index.php/Eye_Tracker_Eyetech
-[3]: http://wiki.cogain.org/images/thumb/6/6f/Stuart.jpg/180px-Stuart.jpg
 [4]: http://wiki.cogain.org/images/thumb/e/ea/Michael01.jpg/180px-Michael01.jpg
 [5]: http://wiki.cogain.org/images/thumb/c/c5/Ahmar.jpg/180px-Ahmar.jpg
 [6]: http://wiki.cogain.org/images/thumb/a/a3/Paul.jpg/180px-Paul.jpg
@@ -79,7 +78,7 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxMzg4Mzk0LC0xNTgzMDg1NTczLDUwND
+eyJoaXN0b3J5IjpbOTc1MzI4ODI1LC0xNTgzMDg1NTczLDUwND
 g1NzMyNCw1MDQ4NTczMjQsLTE2NTUxMzA0MjAsMjAyODUzMjgw
 NiwyMDI4NTMyODA2LDE5ODk2MTU4MTQsNjkyNjg3NzMzLDUxOD
 ExMjE5NywxNjAxOTEyNjY1XX0=
