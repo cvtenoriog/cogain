@@ -35,7 +35,7 @@ You can start checking out the following pages:
 You are welcome to add and modify this wiki with links to applications, information about events, eye trackers, current research, answers to questions, photos, videos, tutorials, and more! For that, please register in our website. You need to [sign up][10] only once for using the [forum][6] and this wiki. 
 
 [1]: http://www.cogain.org
-[2]: http://wiki.cogain.org/index.php/User_Involvement "User Involvement"
+[2]: //cogain/User_Involvement "User Involvement"
 [3]: http://wiki.cogain.org/index.php/FAQ "FAQ"
 [4]: http://wiki.cogain.org/index.php/Training "Training"
 [5]: http://wiki.cogain.org/index.php/Media "Media"
@@ -47,6 +47,5 @@ You are welcome to add and modify this wiki with links to applications, informat
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUyNTIzMDAsLTE1ODY2MTQ0NjJdfQ
-==
+eyJoaXN0b3J5IjpbNTg2NjYwNzcxLC0xNTg2NjE0NDYyXX0=
 -->
