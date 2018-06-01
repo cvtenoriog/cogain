@@ -3,8 +3,6 @@
 
 # Communication by Gaze Interaction (hosted by the COGAIN Association)
 
-From COGAIN: Communication by Gaze Interaction (hosted by the COGAIN Association)
-
 This is the Knowledge Base of the COGAIN Network. Here you can find information, photos, videos, guides, reports, links and more. You are also welcome to join our community and help us build knowledge about Gaze Interaction. 
 
 For information and news about the COGAIN Association, check [our website at www.cogain.org][1]. 
@@ -49,5 +47,5 @@ You are welcome to add and modify this wiki with links to applications, informat
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjY3MDc0OV19
+eyJoaXN0b3J5IjpbLTE1ODY2MTQ0NjIsLTg4NjY3MDc0OV19
 -->
