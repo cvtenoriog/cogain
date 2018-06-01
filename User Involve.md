@@ -51,8 +51,17 @@ Videos of talks given at the COGAIN 2006 End-User Session
 ##  Photos from User Sessions at COGAIN Events 
 
 * Photos from COGAIN
- ![][17]  ![][18]
+   ![][18]
  ![][19]  ![][20]
+
+
+```
+|<center>![][17]</center>|<center>Celda Encabezado 2</center>|
+|---|---|
+|<center>Celda contenido 1</center>|<center>Celda contenido 2</center>|
+```
+
+
 
 [1]: http://wiki.cogain.org/images/thumb/0/0b/Sarah_and_Mick.jpg/180px-Sarah_and_Mick.jpg
 [2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
@@ -78,5 +87,5 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzkwNzUwMV19
+eyJoaXN0b3J5IjpbOTQ2MTQyOTE5LDE4Njc5MDc1MDFdfQ==
 -->
