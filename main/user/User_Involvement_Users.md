@@ -11,9 +11,8 @@ This page is about the users that WP3 represents in this project. Our aim is to 
 |<center>![Sarah has excellent eye control and finds eye control a comfortable way of controlling the computer][1] <br>Sarah using the [Quick Glance 2][2] system <br>|
 |---|
 
-```
-<img src="https://github.com/favicon.ico" width="48">
-```
+<img src="/Img/800px-Sarah_and_Mick.jpg" width="48">
+
 
   
 _**Sarah**_ has a high spinal lesion that, for her, means that she cannot move her body below the neck and has to rely on a ventilator to breathe. She has very good head control and is able to use a mouthstick for a range of activities. Using the mouth-stick to control the mouse and keyboard gives her the high level of accuracy she requires for web design. However, it requires a great deal of effort and difficulty. For this reason, she is extremely interested in using eye control for whichever computer applications she can. Having trialled it over several days, Sarah feels that eye control offers her a more direct, comfortable and quick method of carrying out certain tasks. 
@@ -72,7 +71,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
 [The ACE Centre is leader of this work package. Click here to visit our web page and find out more about what we do][8]
 
 [1]: /Img/800px-Sarah_and_Mick.jpg
-{:height="36px" width="36px"}
 [2]: http://wiki.cogain.org/index.php/Eye_Tracker_Eyetech
 [3]: http://wiki.cogain.org/images/thumb/6/6f/Stuart.jpg/180px-Stuart.jpg
 [4]: http://wiki.cogain.org/images/thumb/e/ea/Michael01.jpg/180px-Michael01.jpg
@@ -84,8 +82,8 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzIwNjkwNSwtMTU4MzA4NTU3Myw1MD
-Q4NTczMjQsNTA0ODU3MzI0LC0xNjU1MTMwNDIwLDIwMjg1MzI4
-MDYsMjAyODUzMjgwNiwxOTg5NjE1ODE0LDY5MjY4NzczMyw1MT
-gxMTIxOTcsMTYwMTkxMjY2NV19
+eyJoaXN0b3J5IjpbLTE3MDQ1Njk4NDgsLTE1ODMwODU1NzMsNT
+A0ODU3MzI0LDUwNDg1NzMyNCwtMTY1NTEzMDQyMCwyMDI4NTMy
+ODA2LDIwMjg1MzI4MDYsMTk4OTYxNTgxNCw2OTI2ODc3MzMsNT
+E4MTEyMTk3LDE2MDE5MTI2NjVdfQ==
 -->
