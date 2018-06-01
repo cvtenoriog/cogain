@@ -41,8 +41,8 @@ You are welcome to add and modify this wiki with links to applications, informat
 [5]: /main/Media.md
 [6]: http://www.cogain.org/forum
 [7]: /main/Special:Categories.md
-[8]: /main/C.md
-[9]: http://wiki.cogain.org/index.php/Category%3AEvents "Category:Events"
+[8]: /main/Category:Reference.md
+[9]: /main/Category:Events.md
 [10]: http://www.cogain.org/user
 
   
@@ -51,6 +51,6 @@ eyJoaXN0b3J5IjpbLTIwNzg4OTExNzMsLTEzMDI5OTg3MzQsNT
 g2NjYwNzcxLC0xNTg2NjE0NDYyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjgzODk3NiwyMTMwODk2ODU4LDE2MT
-U0MDU5NzldfQ==
+eyJoaXN0b3J5IjpbLTE3MzExNzg1ODEsMjEzMDg5Njg1OCwxNj
+E1NDA1OTc5XX0=
 -->
