@@ -36,7 +36,7 @@ You are welcome to add and modify this wiki with links to applications, informat
 
 [1]: http://www.cogain.org
 [2]: /main/User_Involvement.md
-[3]: /main/FAQ
+[3]: /main/FAQ.md
 [4]: http://wiki.cogain.org/index.php/Training "Training"
 [5]: http://wiki.cogain.org/index.php/Media "Media"
 [6]: http://www.cogain.org/forum
@@ -51,5 +51,5 @@ eyJoaXN0b3J5IjpbLTIwNzg4OTExNzMsLTEzMDI5OTg3MzQsNT
 g2NjYwNzcxLC0xNTg2NjE0NDYyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODc5MTg1MSwxNjE1NDA1OTc5XX0=
+eyJoaXN0b3J5IjpbMjEzMDg5Njg1OCwxNjE1NDA1OTc5XX0=
 -->
