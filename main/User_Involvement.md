@@ -60,7 +60,7 @@ Videos of talks given at the COGAIN 2006 End-User Session
 
 [1]: http://wiki.cogain.org/images/thumb/0/0b/Sarah_and_Mick.jpg/180px-Sarah_and_Mick.jpg
 [2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
-[3]: http://wiki.cogain.org/index.php/User_Involvement_Users "User Involvement Users"
+[3]: /main/user/User_Involvement_Users.md
 [4]: http://wiki.cogain.org/images/b/bd/Questionnaire2005.doc "Questionnaire2005.doc"
 [5]: http://wiki.cogain.org/images/a/a2/Questionnairefeb2009.rtf "Questionnairefeb2009.rtf"
 [6]: http://wiki.cogain.org/index.php/COGAIN_Report_D3.1 "COGAIN Report D3.1"
@@ -82,5 +82,5 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTA3NDMxN119
+eyJoaXN0b3J5IjpbMTk4NDQ2NDE0NCwtNzI1MDc0MzE3XX0=
 -->
