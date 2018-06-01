@@ -22,8 +22,8 @@ You can start checking out the following pages:
 You can start checking out the following pages: 
 
 -   [Special:Categories][7], for a list of the categories available in the wiki
--   [Category:Reference][8], for a list of relevant [bibliography][13] and download links
--   [Category:Links][14], for relevant links
+-   [Category:Reference][8], for a list of relevant [bibliography][11] and and download links
+-   [Category:Links][1], for relevant links
 -   [Category:Applications](http://wiki.cogain.org/index.php/Category:Applications "Category:Applications"), for a list of applications that can be downloaded and used
 -   [Training](http://wiki.cogain.org/index.php/Training "Training"), for a list of educational material that can be used to support (self) training of gaze interaction
 
@@ -50,6 +50,7 @@ You are welcome to add and modify this wiki with links to applications, informat
 [8]: /main/Category:Reference.md
 [9]: /main/Category:Events.md
 [10]: http://www.cogain.org/user
+[11]: http://wiki.cogain.org/index.php/Bibliography_Gaze_Interaction
 
   
 <!--stackedit_data:
@@ -57,6 +58,6 @@ eyJoaXN0b3J5IjpbLTIwNzg4OTExNzMsLTEzMDI5OTg3MzQsNT
 g2NjYwNzcxLC0xNTg2NjE0NDYyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0Nzg1OTc4LDIxMzA4OTY4NTgsMTYxNT
+eyJoaXN0b3J5IjpbNTYyOTY2MTUxLDIxMzA4OTY4NTgsMTYxNT
 QwNTk3OV19
 -->
