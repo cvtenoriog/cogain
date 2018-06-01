@@ -58,9 +58,6 @@ _**Paul**_ is a young man who has cerebral palsy. Nine years ago he was able to 
 
 ####  Claire 
 
-
-
-
 |<center>![Claire sitting in a relaxed position, even though she is concentrating on eye-typing][7]<br>Claire trying eye-typing on the Tobii system<br>|
 |---|
 
@@ -83,6 +80,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODg4MjEzLDUxODExMjE5NywxNjAxOT
+eyJoaXN0b3J5IjpbNjkyNjg3NzMzLDUxODExMjE5NywxNjAxOT
 EyNjY1XX0=
 -->
