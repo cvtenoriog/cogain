@@ -12,6 +12,7 @@ This page is about the users that WP3 represents in this project. Our aim is to 
 |<center>![Sarah has excellent eye control and finds eye control a comfortable way of controlling the computer][1] <br>Sarah using the [Quick Glance 2][2] system <br>|
 |---|
 
+
   
 _**Sarah**_ has a high spinal lesion that, for her, means that she cannot move her body below the neck and has to rely on a ventilator to breathe. She has very good head control and is able to use a mouthstick for a range of activities. Using the mouth-stick to control the mouse and keyboard gives her the high level of accuracy she requires for web design. However, it requires a great deal of effort and difficulty. For this reason, she is extremely interested in using eye control for whichever computer applications she can. Having trialled it over several days, Sarah feels that eye control offers her a more direct, comfortable and quick method of carrying out certain tasks. 
 
@@ -80,6 +81,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTYxNTgxNCw2OTI2ODc3MzMsNTE4MT
-EyMTk3LDE2MDE5MTI2NjVdfQ==
+eyJoaXN0b3J5IjpbNjAxNDA1ODQ4LDE5ODk2MTU4MTQsNjkyNj
+g3NzMzLDUxODExMjE5NywxNjAxOTEyNjY1XX0=
 -->
