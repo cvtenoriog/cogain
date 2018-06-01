@@ -2,8 +2,11 @@
 # User Involvement
 
 
-![][1]
-Sarah Yeo using an eye control system
+
+
+
+|<center>![][1]<br> Sarah Yeo using an eye control system <br></center>|
+|---|---|
 
 The original COGAIN Work Package 3 (WP3) concentrated on User Involvement. The COGAIN project has ended but the COGAIN Association continues the work, as well as COGAIN partners in their own organizations. 
 
@@ -83,5 +86,5 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjkyNzEzMV19
+eyJoaXN0b3J5IjpbMTc3NDQ2Nzg1MiwxNzE2OTI3MTMxXX0=
 -->
