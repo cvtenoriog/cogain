@@ -2,7 +2,7 @@
 
 ## WP3 - Focus on the Users 
 
-This page is about the users that WP3 represents in this project. Our aim is to trial different eye control systems with different users, and see how they feel about the hardware and software they are shown. In this way, we can inform the developers of the improvements that should be made and of the capabilities that the systems should have. It is very valuable to have the opinions of the people who could potentially benefit from the use of eye control technology, and we are grateful for their participation. 
+This page is about the users that WP3 represents in this project. Our aim is to trial different eye control systems with different users, and see how they feel about the hardware and software they are shown. In this way, we can inform the developers of the improvements that should be made and of the capabilities that the systems should have. It is very valuable to have the opinions of the people who could potentially benefit from the use of eye control technology, and we ![enter image description here](https://lh3.googleusercontent.com/0GuebhZ5w-r_iCZeCHrPbEk8rl5rr5rghQw0UrxD_PxG7WapVPISF7jyJMJ3IEG9M5zIimu3b81i "Latin")are grateful for their participation. 
 
 ###  The potential users who are giving their opinions on eye control technology 
 
@@ -80,6 +80,7 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODUzMjgwNiwxOTg5NjE1ODE0LDY5Mj
-Y4NzczMyw1MTgxMTIxOTcsMTYwMTkxMjY2NV19
+eyJoaXN0b3J5IjpbMjU2Njk2OTY1LDIwMjg1MzI4MDYsMTk4OT
+YxNTgxNCw2OTI2ODc3MzMsNTE4MTEyMTk3LDE2MDE5MTI2NjVd
+fQ==
 -->
