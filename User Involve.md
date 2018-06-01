@@ -51,15 +51,11 @@ Videos of talks given at the COGAIN 2006 End-User Session
 ##  Photos from User Sessions at COGAIN Events 
 
 * Photos from COGAIN
-   ![][18]
- ![][19]  ![][20]
-
-
-```
-|<center>![][17]</center>|<center>Celda Encabezado 2</center>|
+   
+|<center>![][17]</center>|<center>![][18]</center>|
 |---|---|
-|<center>Celda contenido 1</center>|<center>Celda contenido 2</center>|
-```
+|<center>![][19]</center>|<center>![][20]</center>|
+
 
 
 
@@ -87,5 +83,5 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MTQyOTE5LDE4Njc5MDc1MDFdfQ==
+eyJoaXN0b3J5IjpbLTgyNjkzMDQ2OSwxODY3OTA3NTAxXX0=
 -->
