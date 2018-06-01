@@ -36,14 +36,14 @@ _**Stuart**_ has athetoid cerebral palsy. This means that it is difficult for hi
 
 ####  Michael 
 
-|<center>![Michael finds communicating with this E-tran frame too slow and hopes that eye control will enable him to speed up the way he talks to family and friends][4] <br>Communicating with an E-tran frame <br>|
-|---|
+|<center><img src="/Img/Michael01.jpg" width="200"> <br>Communicating with an E-tran frame <br>|
+|---| 
 
 _**Michael**_ is in his early 40's. He had a severe stroke about 2 years ago. He cannot speak but communicates by looking at letters on an 'e-tran frame'. Michael has a certain amount of difficulty with head control and has nystagmus, which means that he cannot fix his gaze in the same way that other people can - both of Michael's eyes have a significant amount of involuntary side-to-side movement. He would like to be able to access the computer quickly and efficiently in order to communicate socially and assist with his wife's business. At present his only form of access to technology is via switches, which he finds very slow and frustrating and he would very much like to use eye control as a quicker and easier method. It is important for developers to try to accommodate people like Michael by taking his kinds of difficulties (involuntary head movement and fluctuating visual difficulties) into account.  
 
 ####  Ahmar 
 
-|<center>![Ahmar is a successful Headmouse user, but says he could use eye control for certain activities, more comfortably and for longer periods of time][5] <br>Ahmar trying systems for COGAIN<br>|
+|<center><img src="/Img/Michael01.jpg" width="200"> <br>Ahmar trying systems for COGAIN<br>|
 |---|
 
 _**Ahmar**_ is a young man with cerebral palsy and has been a successful user of his SofType/HeadmouseExtreme combination for many years. However, when using the headmouse for computer access, because of his involuntary movement, Ahmar has to work at 'stiffening' his whole body in order to keep his head still enough to achieve accuracy he requires in order to access the onscreen keyboard. Even though he had tried eye control as an access method for a relatively brief period of time, Ahmar was extremely clear and decisive about his views on this access method, particularly for writing. The Tobii system was able to 'ignore' Ahmar's involuntary head movement and track the movement of his eyes alone. As a result, Ahmar was able to relax his whole body. He felt that whether it was quicker or not, he would be able to 'eye-write' for far longer, far more comfortably.  
@@ -51,14 +51,14 @@ _**Ahmar**_ is a young man with cerebral palsy and has been a successful user of
 ####  Paul 
 
 
-|<center>![Paul can no longer use the mini-joystick he used to due to his deteriorating physical condition][6]<br>Paul enjoying a visit to try eye control<br>|
+|<center><img src="/Img/Michael01.jpg" width="200"><br>Paul enjoying a visit to try eye control<br>|
 |---|
 
 _**Paul**_ is a young man who has cerebral palsy. Nine years ago he was able to use an ordinary keyboard and mouse but since then his physical abilities have changed. The speed at which Paul has been able to move his fingers and arms has slowed down, his range of movement has decreased and the amount of pressure he is able to apply has steadily reduced. Now, because he can no longer apply enough pressure to control a mini-joystick, he uses a SmartNav headmouse, because he still has a reasonable range of head movement. At present, Paul is using his headmouse very effectively, but head movement might become increasingly difficult and tiring for him. It is therefore important for him to consider eye control as his next method of accessing and controlling the computer.  
 
 ####  Claire 
 
-|<center>![Claire sitting in a relaxed position, even though she is concentrating on eye-typing][7]<br>Claire trying eye-typing on the Tobii system<br>|
+|<center><img src="/Img/Michael01.jpg" width="200"><br>Claire trying eye-typing on the Tobii system<br>|
 |---|
 
 
@@ -69,7 +69,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
 [The ACE Centre is leader of this work package. Click here to visit our web page and find out more about what we do][8]
 
 [2]: http://wiki.cogain.org/index.php/Eye_Tracker_Eyetech
-[4]: http://wiki.cogain.org/images/thumb/e/ea/Michael01.jpg/180px-Michael01.jpg
 [5]: http://wiki.cogain.org/images/thumb/c/c5/Ahmar.jpg/180px-Ahmar.jpg
 [6]: http://wiki.cogain.org/images/thumb/a/a3/Paul.jpg/180px-Paul.jpg
 [7]: http://wiki.cogain.org/images/thumb/7/7d/Claire.jpg/180px-Claire.jpg
@@ -78,8 +77,8 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MzI4ODI1LC0xNTgzMDg1NTczLDUwND
-g1NzMyNCw1MDQ4NTczMjQsLTE2NTUxMzA0MjAsMjAyODUzMjgw
-NiwyMDI4NTMyODA2LDE5ODk2MTU4MTQsNjkyNjg3NzMzLDUxOD
-ExMjE5NywxNjAxOTEyNjY1XX0=
+eyJoaXN0b3J5IjpbNzg5MTAxNjk4LDk3NTMyODgyNSwtMTU4Mz
+A4NTU3Myw1MDQ4NTczMjQsNTA0ODU3MzI0LC0xNjU1MTMwNDIw
+LDIwMjg1MzI4MDYsMjAyODUzMjgwNiwxOTg5NjE1ODE0LDY5Mj
+Y4NzczMyw1MTgxMTIxOTcsMTYwMTkxMjY2NV19
 -->
