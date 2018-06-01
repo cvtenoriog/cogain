@@ -8,7 +8,7 @@ This page is about the users that WP3 represents in this project. Our aim is to 
 
 ####  Sarah 
 
-|<center><img src="/Img/800px-Sarah_and_Mick.jpg" width="200"> <br>Sarah using the [Quick Glance 2][2] system <br>|
+|<center><img src="/Img/800px-Sarah_and_Mick.jpg" width="200"> <br>Sarah using the [Quick Glance 2][1] system <br>|
 |---|
 
 
@@ -66,15 +66,15 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
 
 * * *
 
-[The ACE Centre is leader of this work package. Click here to visit our web page and find out more about what we do][8]
+[The ACE Centre is leader of this work package. Click here to visit our web page and find out more about what we do][2]
 
 [1]: http://wiki.cogain.org/index.php/Eye_Tracker_Eyetech
-[8]: http://www.ace-centre.org.uk
+[2]: http://www.ace-centre.org.uk
 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjM4MTcyNSw5NzUzMjg4MjUsLTE1OD
+eyJoaXN0b3J5IjpbLTM2MjYyNTkwNCw5NzUzMjg4MjUsLTE1OD
 MwODU1NzMsNTA0ODU3MzI0LDUwNDg1NzMyNCwtMTY1NTEzMDQy
 MCwyMDI4NTMyODA2LDIwMjg1MzI4MDYsMTk4OTYxNTgxNCw2OT
 I2ODc3MzMsNTE4MTEyMTk3LDE2MDE5MTI2NjVdfQ==
