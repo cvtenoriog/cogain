@@ -43,7 +43,7 @@ _**Michael**_ is in his early 40's. He had a severe stroke about 2 years ago. He
 
 ####  Ahmar 
 
-|<center><img src="/Img/Michael01.jpg" width="200"> <br>Ahmar trying systems for COGAIN<br>|
+|<center><img src="/Img/180px-Ahmar.jpg" width="200"> <br>Ahmar trying systems for COGAIN<br>|
 |---|
 
 _**Ahmar**_ is a young man with cerebral palsy and has been a successful user of his SofType/HeadmouseExtreme combination for many years. However, when using the headmouse for computer access, because of his involuntary movement, Ahmar has to work at 'stiffening' his whole body in order to keep his head still enough to achieve accuracy he requires in order to access the onscreen keyboard. Even though he had tried eye control as an access method for a relatively brief period of time, Ahmar was extremely clear and decisive about his views on this access method, particularly for writing. The Tobii system was able to 'ignore' Ahmar's involuntary head movement and track the movement of his eyes alone. As a result, Ahmar was able to relax his whole body. He felt that whether it was quicker or not, he would be able to 'eye-write' for far longer, far more comfortably.  
@@ -69,7 +69,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
 [The ACE Centre is leader of this work package. Click here to visit our web page and find out more about what we do][8]
 
 [2]: http://wiki.cogain.org/index.php/Eye_Tracker_Eyetech
-[5]: http://wiki.cogain.org/images/thumb/c/c5/Ahmar.jpg/180px-Ahmar.jpg
 [6]: http://wiki.cogain.org/images/thumb/a/a3/Paul.jpg/180px-Paul.jpg
 [7]: http://wiki.cogain.org/images/thumb/7/7d/Claire.jpg/180px-Claire.jpg
 [8]: http://www.ace-centre.org.uk
@@ -77,7 +76,7 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MTAxNjk4LDk3NTMyODgyNSwtMTU4Mz
+eyJoaXN0b3J5IjpbLTcxMzkwMDk2LDk3NTMyODgyNSwtMTU4Mz
 A4NTU3Myw1MDQ4NTczMjQsNTA0ODU3MzI0LC0xNjU1MTMwNDIw
 LDIwMjg1MzI4MDYsMjAyODUzMjgwNiwxOTg5NjE1ODE0LDY5Mj
 Y4NzczMyw1MTgxMTIxOTcsMTYwMTkxMjY2NV19
