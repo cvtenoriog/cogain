@@ -9,7 +9,7 @@ This page is about the users that WP3 represents in this project. Our aim is to 
 ####  Sarah 
 
 
-|<center>![Sarah has excellent eye control and finds eye control a comfortable way of controlling the computer][1] <br>Sarah using the ![Quick Glance 2][2] system|
+|<center>![Sarah has excellent eye control and finds eye control a comfortable way of controlling the computer][1] <br>Sarah using the ![Quick Glance 2][2] system <br>|
 |---|
 
   
@@ -29,16 +29,17 @@ _Sarah Yeo 11 April 2006_
 
 ####  Stuart 
 
-![Stuart finds using switches for communicating too slow and hopes that eye typing will provide a faster way of saying what he wants to][3]
-Stuart playing a game on the Tobii system
+|<center>![Stuart finds using switches for communicating too slow and hopes that eye typing will provide a faster way of saying what he wants to][3] <br>Stuart playing a game on the Tobii system <br>|
+|---|
 
 _**Stuart**_ has athetoid cerebral palsy. This means that it is difficult for him to make any controlled movement. Attempts at a deliberate movement can result in a range of involuntary movement. When Stuart tried eye-control for writing with the Tobii system, he used it very quickly and efficiently and was soon able to use it far more quickly and comfortably than his current switch access method. He was extremely pleased and impressed by this new, quick and efficient method of computer access. However, despite this, there is no way in which eye control can replace his current switch access to assistive technology (for speech, mobility and environmental control) at present. 
 
 ####  Michael 
 
-![Michael finds communicating with this E-tran frame too slow and hopes that eye control will enable him to speed up the way he talks to family and friends][4]
-Communicating with an E-tran frame
 
+Communicating with an E-tran frame
+|<center>![Michael finds communicating with this E-tran frame too slow and hopes that eye control will enable him to speed up the way he talks to family and friends][4] <br>Sarah using the ![Quick Glance 2][2] system <br>|
+|---|
 _**Michael**_ is in his early 40's. He had a severe stroke about 2 years ago. He cannot speak but communicates by looking at letters on an 'e-tran frame'. Michael has a certain amount of difficulty with head control and has nystagmus, which means that he cannot fix his gaze in the same way that other people can - both of Michael's eyes have a significant amount of involuntary side-to-side movement. He would like to be able to access the computer quickly and efficiently in order to communicate socially and assist with his wife's business. At present his only form of access to technology is via switches, which he finds very slow and frustrating and he would very much like to use eye control as a quicker and easier method. It is important for developers to try to accommodate people like Michael by taking his kinds of difficulties (involuntary head movement and fluctuating visual difficulties) into account.  
 
 ####  Ahmar 
@@ -78,5 +79,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4MTEyMTk3LDE2MDE5MTI2NjVdfQ==
+eyJoaXN0b3J5IjpbLTE0NDQ5NzM0ODgsNTE4MTEyMTk3LDE2MD
+E5MTI2NjVdfQ==
 -->
