@@ -40,8 +40,8 @@ You are welcome to add and modify this wiki with links to applications, informat
 [4]: /main/Training.md
 [5]: /main/Media.md
 [6]: http://www.cogain.org/forum
-[7]: http://wiki.cogain.org/index.php/Special%3ACategories "Special:Categories"
-[8]: http://wiki.cogain.org/index.php/Category%3AReference "Category:Reference"
+[7]: /main/Special:Categories.md
+[8]: /main/C.md
 [9]: http://wiki.cogain.org/index.php/Category%3AEvents "Category:Events"
 [10]: http://www.cogain.org/user
 
@@ -51,6 +51,6 @@ eyJoaXN0b3J5IjpbLTIwNzg4OTExNzMsLTEzMDI5OTg3MzQsNT
 g2NjYwNzcxLC0xNTg2NjE0NDYyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDIxNzY2MiwyMTMwODk2ODU4LDE2MT
+eyJoaXN0b3J5IjpbMTc2NjgzODk3NiwyMTMwODk2ODU4LDE2MT
 U0MDU5NzldfQ==
 -->
