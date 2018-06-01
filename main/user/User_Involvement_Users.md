@@ -43,7 +43,7 @@ _**Michael**_ is in his early 40's. He had a severe stroke about 2 years ago. He
 
 ####  Ahmar 
 
-|<center><img src="/Img/180px-Ahmar.jpg" width="200"> <br>Ahmar trying systems for COGAIN<br>|
+|<center><img src="/Img/Ahmar.jpg" width="200"> <br>Ahmar trying systems for COGAIN<br>|
 |---|
 
 _**Ahmar**_ is a young man with cerebral palsy and has been a successful user of his SofType/HeadmouseExtreme combination for many years. However, when using the headmouse for computer access, because of his involuntary movement, Ahmar has to work at 'stiffening' his whole body in order to keep his head still enough to achieve accuracy he requires in order to access the onscreen keyboard. Even though he had tried eye control as an access method for a relatively brief period of time, Ahmar was extremely clear and decisive about his views on this access method, particularly for writing. The Tobii system was able to 'ignore' Ahmar's involuntary head movement and track the movement of his eyes alone. As a result, Ahmar was able to relax his whole body. He felt that whether it was quicker or not, he would be able to 'eye-write' for far longer, far more comfortably.  
@@ -51,14 +51,14 @@ _**Ahmar**_ is a young man with cerebral palsy and has been a successful user of
 ####  Paul 
 
 
-|<center><img src="/Img/Michael01.jpg" width="200"><br>Paul enjoying a visit to try eye control<br>|
+|<center><img src="/Img/Paul.jpg" width="200"><br>Paul enjoying a visit to try eye control<br>|
 |---|
 
 _**Paul**_ is a young man who has cerebral palsy. Nine years ago he was able to use an ordinary keyboard and mouse but since then his physical abilities have changed. The speed at which Paul has been able to move his fingers and arms has slowed down, his range of movement has decreased and the amount of pressure he is able to apply has steadily reduced. Now, because he can no longer apply enough pressure to control a mini-joystick, he uses a SmartNav headmouse, because he still has a reasonable range of head movement. At present, Paul is using his headmouse very effectively, but head movement might become increasingly difficult and tiring for him. It is therefore important for him to consider eye control as his next method of accessing and controlling the computer.  
 
 ####  Claire 
 
-|<center><img src="/Img/Michael01.jpg" width="200"><br>Claire trying eye-typing on the Tobii system<br>|
+|<center><img src="/Img/Claire.jpg" width="200"><br>Claire trying eye-typing on the Tobii system<br>|
 |---|
 
 
@@ -68,16 +68,14 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
 
 [The ACE Centre is leader of this work package. Click here to visit our web page and find out more about what we do][8]
 
-[2]: http://wiki.cogain.org/index.php/Eye_Tracker_Eyetech
-[6]: http://wiki.cogain.org/images/thumb/a/a3/Paul.jpg/180px-Paul.jpg
-[7]: http://wiki.cogain.org/images/thumb/7/7d/Claire.jpg/180px-Claire.jpg
+[1]: http://wiki.cogain.org/index.php/Eye_Tracker_Eyetech
 [8]: http://www.ace-centre.org.uk
 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzkwMDk2LDk3NTMyODgyNSwtMTU4Mz
-A4NTU3Myw1MDQ4NTczMjQsNTA0ODU3MzI0LC0xNjU1MTMwNDIw
-LDIwMjg1MzI4MDYsMjAyODUzMjgwNiwxOTg5NjE1ODE0LDY5Mj
-Y4NzczMyw1MTgxMTIxOTcsMTYwMTkxMjY2NV19
+eyJoaXN0b3J5IjpbMTYyMjM4MTcyNSw5NzUzMjg4MjUsLTE1OD
+MwODU1NzMsNTA0ODU3MzI0LDUwNDg1NzMyNCwtMTY1NTEzMDQy
+MCwyMDI4NTMyODA2LDIwMjg1MzI4MDYsMTk4OTYxNTgxNCw2OT
+I2ODc3MzMsNTE4MTEyMTk3LDE2MDE5MTI2NjVdfQ==
 -->
