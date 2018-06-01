@@ -9,7 +9,7 @@ This page is about the users that WP3 represents in this project. Our aim is to 
 ####  Sarah 
 
 
-|<center>![Sarah has excellent eye control and finds eye control a comfortable way of controlling the computer][1] <br>Sarah using the ![Quick Glance 2][2] system <br>|
+|<center>![Sarah has excellent eye control and finds eye control a comfortable way of controlling the computer][1] <br>Sarah using the [Quick Glance 2][2] system <br>|
 |---|
 
   
@@ -80,6 +80,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyNjg3NzMzLDUxODExMjE5NywxNjAxOT
-EyNjY1XX0=
+eyJoaXN0b3J5IjpbMTk4OTYxNTgxNCw2OTI2ODc3MzMsNTE4MT
+EyMTk3LDE2MDE5MTI2NjVdfQ==
 -->
