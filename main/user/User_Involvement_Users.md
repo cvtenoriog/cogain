@@ -50,15 +50,20 @@ _**Ahmar**_ is a young man with cerebral palsy and has been a successful user of
 
 ####  Paul 
 
-![Paul can no longer use the mini-joystick he used to due to his deteriorating physical condition][6]
-Paul enjoying a visit to try eye control
+
+|<center>![Paul can no longer use the mini-joystick he used to due to his deteriorating physical condition][6]<br>Paul enjoying a visit to try eye control<br>|
+|---|
 
 _**Paul**_ is a young man who has cerebral palsy. Nine years ago he was able to use an ordinary keyboard and mouse but since then his physical abilities have changed. The speed at which Paul has been able to move his fingers and arms has slowed down, his range of movement has decreased and the amount of pressure he is able to apply has steadily reduced. Now, because he can no longer apply enough pressure to control a mini-joystick, he uses a SmartNav headmouse, because he still has a reasonable range of head movement. At present, Paul is using his headmouse very effectively, but head movement might become increasingly difficult and tiring for him. It is therefore important for him to consider eye control as his next method of accessing and controlling the computer.  
 
 ####  Claire 
 
-![Claire sitting in a relaxed position, even though she is concentrating on eye-typing][7]
-Claire trying eye-typing on the Tobii system
+
+
+
+|<center>![Claire sitting in a relaxed position, even though she is concentrating on eye-typing][7]<br>Claire trying eye-typing on the Tobii system<br>|
+|---|
+
 
 _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motivated. She currently uses a special joystick to access the computer. However, this is very time consuming and involves a great deal of physical effort for her because her condition means that there is a great deal of involuntary movement whenever she tries to carry out a manual task. Just reaching out to grasp the joystick handle in the first place is very difficult. However, when there are no physical demands on Claire, she can sit reasonably still with comparatively little involuntary movement. Even though she had the challenge of 'eye writing' on a system she'd never tried before, on an unfamiliar keyboard/grid layout she still managed to remain relaxed, and quite still. This means that potentially, eye control could be quicker and less tiring for Claire because of the great reduction in involuntary movement.  
 
@@ -78,6 +83,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwMjc4NDYxLDUxODExMjE5NywxNjAxOT
+eyJoaXN0b3J5IjpbLTg4ODg4MjEzLDUxODExMjE5NywxNjAxOT
 EyNjY1XX0=
 -->
