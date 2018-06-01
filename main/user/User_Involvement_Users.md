@@ -36,16 +36,15 @@ _**Stuart**_ has athetoid cerebral palsy. This means that it is difficult for hi
 
 ####  Michael 
 
-
-Communicating with an E-tran frame
-|<center>![Michael finds communicating with this E-tran frame too slow and hopes that eye control will enable him to speed up the way he talks to family and friends][4] <br>Sarah using the ![Quick Glance 2][2] system <br>|
+|<center>![Michael finds communicating with this E-tran frame too slow and hopes that eye control will enable him to speed up the way he talks to family and friends][4] <br>Communicating with an E-tran frame <br>|
 |---|
+
 _**Michael**_ is in his early 40's. He had a severe stroke about 2 years ago. He cannot speak but communicates by looking at letters on an 'e-tran frame'. Michael has a certain amount of difficulty with head control and has nystagmus, which means that he cannot fix his gaze in the same way that other people can - both of Michael's eyes have a significant amount of involuntary side-to-side movement. He would like to be able to access the computer quickly and efficiently in order to communicate socially and assist with his wife's business. At present his only form of access to technology is via switches, which he finds very slow and frustrating and he would very much like to use eye control as a quicker and easier method. It is important for developers to try to accommodate people like Michael by taking his kinds of difficulties (involuntary head movement and fluctuating visual difficulties) into account.  
 
 ####  Ahmar 
 
-![Ahmar is a successful Headmouse user, but says he could use eye control for certain activities, more comfortably and for longer periods of time][5]
-Ahmar trying systems for COGAIN
+|<center>![Ahmar is a successful Headmouse user, but says he could use eye control for certain activities, more comfortably and for longer periods of time][5] <br>Ahmar trying systems for COGAIN<br>|
+|---|
 
 _**Ahmar**_ is a young man with cerebral palsy and has been a successful user of his SofType/HeadmouseExtreme combination for many years. However, when using the headmouse for computer access, because of his involuntary movement, Ahmar has to work at 'stiffening' his whole body in order to keep his head still enough to achieve accuracy he requires in order to access the onscreen keyboard. Even though he had tried eye control as an access method for a relatively brief period of time, Ahmar was extremely clear and decisive about his views on this access method, particularly for writing. The Tobii system was able to 'ignore' Ahmar's involuntary head movement and track the movement of his eyes alone. As a result, Ahmar was able to relax his whole body. He felt that whether it was quicker or not, he would be able to 'eye-write' for far longer, far more comfortably.  
 
@@ -79,6 +78,6 @@ _**Claire**_ has athetoid cerebral palsy. She is bright, literate and well motiv
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ5NzM0ODgsNTE4MTEyMTk3LDE2MD
-E5MTI2NjVdfQ==
+eyJoaXN0b3J5IjpbMjMwMjc4NDYxLDUxODExMjE5NywxNjAxOT
+EyNjY1XX0=
 -->
