@@ -51,8 +51,8 @@ You are welcome to add and modify this wiki with links to applications, informat
 [9]: /main/Category:Events.md
 [10]: http://www.cogain.org/user
 [11]: http://wiki.cogain.org/index.php/Bibliography_Gaze_Interaction
-[12]: /main/Category:Links
-[13]: 
+[12]: /main/Category:Links.md
+[13]: /main/Category:Applications.md
 
   
 <!--stackedit_data:
@@ -60,6 +60,6 @@ eyJoaXN0b3J5IjpbLTIwNzg4OTExNzMsLTEzMDI5OTg3MzQsNT
 g2NjYwNzcxLC0xNTg2NjE0NDYyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODU4NjEzOCwyMTMwODk2ODU4LDE2MT
-U0MDU5NzldfQ==
+eyJoaXN0b3J5IjpbLTIwNzY0OTYyMTIsMjEzMDg5Njg1OCwxNj
+E1NDA1OTc5XX0=
 -->
