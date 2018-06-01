@@ -82,6 +82,5 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTA3NDMxNywxNzc0NDY3ODUyLDE3MT
-Y5MjcxMzFdfQ==
+eyJoaXN0b3J5IjpbLTcyNTA3NDMxN119
 -->
