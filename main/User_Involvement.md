@@ -14,7 +14,10 @@ An essential part of this project is to actively involve people with disabilitie
 
 Get involved and fill out the Questionnaire on User Needs: [Microsoft Word Document (.doc)](/Doc/Questionnaire2005.doc )
 
-Get involved and fill out the **Questionnaire on the Physical Benefits of using an eye control system**: [Media:Questionnairefeb2009.rtf](/Doc/Questionnairefeb2009.rtf ). 
+Get involved and fill out the **Questionnaire on the Physical Benefits of using an eye control system**: [Media:Questionnairefeb2009.rtf]
+
+<embed src="/Doc/Questionnairefeb2009.rtf" width="500" height="300">
+
 
 * **D3.1 User requirements report with observations of difficulties users are experiencing**  
 Donegan, M., Oosthuizen, L., Bates, R., Daunys, G., Hansen, J.P., Joos, M., Majaranta, P. and Signorile, I. (2005) D3.1 User requirements report with observations of difficulties users are experiencing. Communication by Gaze Interaction (COGAIN), IST-2003-511598: Deliverable 3.1. [File:COGAIN-D3.1.pdf](/Doc/COGAIN-D3.1.pdf)
@@ -76,5 +79,6 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODgxODA0Nyw3ODIzMDEyODVdfQ==
+eyJoaXN0b3J5IjpbMTU1MDcyNTA4MSwxODY4ODE4MDQ3LDc4Mj
+MwMTI4NV19
 -->
