@@ -15,15 +15,6 @@ An essential part of this project is to actively involve people with disabilitie
 Get involved and fill out the Questionnaire on User Needs: [Microsoft Word Document (.doc)](/Doc/Questionnaire2005.doc )
 
 Get involved and fill out the **Questionnaire on the Physical Benefits of using an eye control system**: [Media:Questionnairefeb2009.rtf]
-$.ajax({
-        async:false,
-        url: '/Doc/Questionnairefeb2009.rtf',
-        dataType: 'text',
-        success: function(data) 
-        {
-        $('element').append(data);
-            }
-        });
 
 
 * **D3.1 User requirements report with observations of difficulties users are experiencing**  
@@ -86,6 +77,6 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg1ODczMDYsNTM0NTQxNDY0LDE4Nj
+eyJoaXN0b3J5IjpbLTEyODI5MTIyODUsNTM0NTQxNDY0LDE4Nj
 g4MTgwNDcsNzgyMzAxMjg1XX0=
 -->
