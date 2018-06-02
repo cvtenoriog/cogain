@@ -18,7 +18,7 @@ Get involved and fill out the **Questionnaire on the Physical Benefits of using 
 
 * **D3.1 User requirements report with observations of difficulties users are experiencing**  
 Donegan, M., Oosthuizen, L., Bates, R., Daunys, G., Hansen, J.P., Joos, M., Majaranta, P. and Signorile, I. (2005) D3.1 User requirements report with observations of difficulties users are experiencing. Communication by Gaze Interaction (COGAIN), IST-2003-511598: Deliverable 3.1.   
-[ Web page (HTML)][6] or [File:COGAIN-D3.1.pdf](/Doc/Questionnairefeb2009.rtf )
+[ Web page (HTML)][6] or [File:COGAIN-D3.1.pdf](/Doc/COGAIN-D3.1.pdf)
 * **D3.2 Report on features of the different systems and development needs**  
 Donegan et al. (2006) D3.2 Report on features of the different systems and development needs. Communication by Gaze Interaction (COGAIN), IST-2003-511598: Deliverable 3.2.   
 [Web page (HTML)][8] or [File:COGAIN-D3.2.pdf][9]
@@ -59,7 +59,6 @@ Videos of talks given at the COGAIN 2006 End-User Session
 
 
 [3]: /main/user/User_Involvement_Users.md
-[4]: http://wiki.cogain.org/images/b/bd/Questionnaire2005.doc "Questionnaire2005.doc"
 [5]: http://wiki.cogain.org/images/a/a2/Questionnairefeb2009.rtf "Questionnairefeb2009.rtf"
 [6]: http://wiki.cogain.org/index.php/COGAIN_Report_D3.1 "COGAIN Report D3.1"
 [7]: http://wiki.cogain.org/index.php/File%3ACOGAIN-D3.1.pdf "File:COGAIN-D3.1.pdf"
@@ -80,5 +79,5 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3ODAxOTU3XX0=
+eyJoaXN0b3J5IjpbNzgyMzAxMjg1XX0=
 -->
