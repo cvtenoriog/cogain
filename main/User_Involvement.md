@@ -12,7 +12,7 @@ COGAIN looks at what potential users want from an eye control system. People hav
 
 An essential part of this project is to actively involve people with disabilities and those who support them in order to bring about improvements with this exciting new technology. By responding to either of these questionnaires, you will be playing a significant part in ensuring that the aims of the project remain closely linked to what people with disabilities actually _need_, rather than what others might _think_ they need. 
 
-Get involved and fill out the Questionnaire on User Needs: [Microsoft Word Document (.doc)][4]] 
+Get involved and fill out the Questionnaire on User Needs: [Microsoft Word Document (.doc)](/Doc/Questionnaire2005.doc )
 
 Get involved and fill out the **Questionnaire on the Physical Benefits of using an eye control system**: [Media:Questionnairefeb2009.rtf][5]. 
 
@@ -80,6 +80,6 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNTYyOTksMjcwMDE0NjcwLC03MjUwNz
-QzMTddfQ==
+eyJoaXN0b3J5IjpbMjA0MTMwNTUxLDUxMzU2Mjk5LDI3MDAxND
+Y3MCwtNzI1MDc0MzE3XX0=
 -->
