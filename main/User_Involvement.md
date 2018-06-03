@@ -50,9 +50,10 @@ Videos of talks given at the COGAIN 2006 End-User Session
 
 ##  Photos from User Sessions at COGAIN Events 
 
-* Photos from COGAIN
-   
-|<center>![][17] <br>A photo from COGAIN 2005</br></center>|<center>![][18] <br>A photo from COGAIN 2006</br></center>|
+
+|Photos from COGAIN |   
+|:------:|
+|![][17] <br>A photo from COGAIN 2005</br><|<center>![][18] <br>A photo from COGAIN 2006</br></center>|
 |---|---|
 |<center>![][19] <br>A photo from COGAIN 2007</br></center>|<center>![][20] <br>A photo from COGAIN 2008</br></center>|
 
@@ -78,8 +79,8 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODc4MDUyLC00OTg1ODcxNjYsOTk0MD
-k4NTcsMjAyNjY3MTE0LDExODgwOTkyMjgsMTExOTgzMzkyOSwt
-MTQxMzEzMDk1NywtNzI0OTk0NTYxLC0xMjgyOTEyMjg1LDUzND
-U0MTQ2NCwxODY4ODE4MDQ3LDc4MjMwMTI4NV19
+eyJoaXN0b3J5IjpbLTE5NjE4MTEzMzksLTQ5ODU4NzE2Niw5OT
+QwOTg1NywyMDI2NjcxMTQsMTE4ODA5OTIyOCwxMTE5ODMzOTI5
+LC0xNDEzMTMwOTU3LC03MjQ5OTQ1NjEsLTEyODI5MTIyODUsNT
+M0NTQxNDY0LDE4Njg4MTgwNDcsNzgyMzAxMjg1XX0=
 -->
