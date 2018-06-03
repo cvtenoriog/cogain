@@ -65,7 +65,7 @@ Videos of talks given at the COGAIN 2006 End-User Session
 [9]: http://wiki.cogain.org/index.php/File%3ACOGAIN-D3.2.pdf "File:COGAIN-D3.2.pdf"
 [10]: http://wiki.cogain.org/index.php/File%3ACOGAIN-D3.3.pdf "File:COGAIN-D3.3.pdf"
 [11]: http://wiki.cogain.org/index.php/File%3ACOGAIN-D3.6.pdf "File:COGAIN-D3.6.pdf"
-[12]: http://wiki.cogain.org/index.php/Eye_Control_Hints_and_Tips "Eye Control Hints and Tips"
+[12]: /main/user/Eye_Control_Hints_and_Tips.md
 [13]: http://wiki.cogain.org/index.php/User_Involvement_Exemplars_Grids "User Involvement Exemplars Grids"
 [14]: http://wiki.cogain.org/index.php/Training "Training"
 [15]: /index.php?title=Videos&action=edit&redlink=1 "Videos (page does not exist)"
@@ -78,7 +78,7 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMxMzA5NTcsLTcyNDk5NDU2MSwtMT
-I4MjkxMjI4NSw1MzQ1NDE0NjQsMTg2ODgxODA0Nyw3ODIzMDEy
-ODVdfQ==
+eyJoaXN0b3J5IjpbMTExOTgzMzkyOSwtMTQxMzEzMDk1NywtNz
+I0OTk0NTYxLC0xMjgyOTEyMjg1LDUzNDU0MTQ2NCwxODY4ODE4
+MDQ3LDc4MjMwMTI4NV19
 -->
