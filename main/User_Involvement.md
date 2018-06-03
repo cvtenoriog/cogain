@@ -53,9 +53,9 @@ Videos of talks given at the COGAIN 2006 End-User Session
 
 <center>Photos from COGAIN</center>    
 
-|<center>![][17] <br>A photo from COGAIN 2005</br></center>|<center>![][18] <br>A photo from COGAIN 2006</br></center>|
+|<center>![][17]</center> <br><center>A photo from COGAIN 2005</br></center>|<center>![][18]</center> <br><center>A photo from COGAIN 2006</br></center>|
 |---|---|
-|<center>![][19] <br>A photo from COGAIN 2007</br></center>|<center>![][20] <br>A photo from COGAIN 2008</br></center>|
+|<center>![][19] </center><br>A photo from COGAIN 2007</br></center>|<center>![][20] <br>A photo from COGAIN 2008</br></center>|
 
 
 
@@ -79,9 +79,9 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0MzEwNjc3LDIxMTE5MDY4MSw0OTc1Nz
-UxNDEsLTQ5ODU4NzE2Niw5OTQwOTg1NywyMDI2NjcxMTQsMTE4
-ODA5OTIyOCwxMTE5ODMzOTI5LC0xNDEzMTMwOTU3LC03MjQ5OT
-Q1NjEsLTEyODI5MTIyODUsNTM0NTQxNDY0LDE4Njg4MTgwNDcs
-NzgyMzAxMjg1XX0=
+eyJoaXN0b3J5IjpbLTE5MjMyNDUxNDEsMjExMTkwNjgxLDQ5Nz
+U3NTE0MSwtNDk4NTg3MTY2LDk5NDA5ODU3LDIwMjY2NzExNCwx
+MTg4MDk5MjI4LDExMTk4MzM5MjksLTE0MTMxMzA5NTcsLTcyND
+k5NDU2MSwtMTI4MjkxMjI4NSw1MzQ1NDE0NjQsMTg2ODgxODA0
+Nyw3ODIzMDEyODVdfQ==
 -->
