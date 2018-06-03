@@ -50,6 +50,10 @@ Videos of talks given at the COGAIN 2006 End-User Session
 
 ##  Photos from User Sessions at COGAIN Events 
 
+-   [Open house and WP3 retreat with users at COGAIN 2005](http://wiki.cogain.org/index.php/Photos_Camp2005#Thursday "Photos Camp2005")
+-   [End-user sessions at COGAIN 2006](http://wiki.cogain.org/index.php?title=Photos_Camp2006.1&action=edit&redlink=1 "Photos Camp2006.1 (page does not exist)")
+-   [End-user sessions at COGAIN 2007](http://wiki.cogain.org/index.php/Photos_COGAIN2007#Tuesday "Photos COGAIN2007")
+-   [End-user sessions at COGAIN 2008](http://wiki.cogain.org/index.php/Photos_COGAIN2008#Wednesday "Photos COGAIN2008")
 
 - Photos from COGAIN 
 
@@ -79,9 +83,9 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTU4NzYxOSwyMTExOTA2ODEsNDk3NT
-c1MTQxLC00OTg1ODcxNjYsOTk0MDk4NTcsMjAyNjY3MTE0LDEx
-ODgwOTkyMjgsMTExOTgzMzkyOSwtMTQxMzEzMDk1NywtNzI0OT
-k0NTYxLC0xMjgyOTEyMjg1LDUzNDU0MTQ2NCwxODY4ODE4MDQ3
-LDc4MjMwMTI4NV19
+eyJoaXN0b3J5IjpbOTE3NjQ4MDk3LDE1NzE1ODc2MTksMjExMT
+kwNjgxLDQ5NzU3NTE0MSwtNDk4NTg3MTY2LDk5NDA5ODU3LDIw
+MjY2NzExNCwxMTg4MDk5MjI4LDExMTk4MzM5MjksLTE0MTMxMz
+A5NTcsLTcyNDk5NDU2MSwtMTI4MjkxMjI4NSw1MzQ1NDE0NjQs
+MTg2ODgxODA0Nyw3ODIzMDEyODVdfQ==
 -->
