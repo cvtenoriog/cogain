@@ -22,7 +22,7 @@ Get involved and fill out the **Questionnaire on the Physical Benefits of using 
 Donegan, M., Oosthuizen, L., Bates, R., Daunys, G., Hansen, J.P., Joos, M., Majaranta, P. and Signorile, I. (2005) D3.1 User requirements report with observations of difficulties users are experiencing. Communication by Gaze Interaction (COGAIN), IST-2003-511598: Deliverable 3.1. [File:COGAIN-D3.1.pdf](/Doc/COGAIN-D3.1.pdf)
 * **D3.2 Report on features of the different systems and development needs**  
 Donegan et al. (2006) D3.2 Report on features of the different systems and development needs. Communication by Gaze Interaction (COGAIN), IST-2003-511598: Deliverable 3.2.   
-[Web page (HTML)][8] or [File:COGAIN-D3.2.pdf][9]
+or [File:COGAIN-D3.2.pdf](/Doc/COGAIN-D3.2.pdf)
 * **D3.3 Report of user trials and usability studies**  
 Donegan et al. (2006) D3.3 Report of user trials and usability studies. Communication by Gaze Interaction (COGAIN), IST-2003-511598: Deliverable 3.3. [File:COGAIN-D3.3.pdf][10]
 * **D3.6 Report of user trials and usability studies**  
@@ -78,6 +78,7 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDk5NDU2MSwtMTI4MjkxMjI4NSw1Mz
-Q1NDE0NjQsMTg2ODgxODA0Nyw3ODIzMDEyODVdfQ==
+eyJoaXN0b3J5IjpbLTIxMDEwMDU1NjMsLTcyNDk5NDU2MSwtMT
+I4MjkxMjI4NSw1MzQ1NDE0NjQsMTg2ODgxODA0Nyw3ODIzMDEy
+ODVdfQ==
 -->
