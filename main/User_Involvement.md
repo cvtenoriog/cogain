@@ -26,7 +26,7 @@ or [File:COGAIN-D3.2.pdf](/Doc/COGAIN-D3.2.pdf)
 * **D3.3 Report of user trials and usability studies**  
 Donegan et al. (2006) D3.3 Report of user trials and usability studies. Communication by Gaze Interaction (COGAIN), IST-2003-511598: Deliverable 3.3. [File:COGAIN-D3.3.pdf](/Doc/COGAIN-D3.3.pdf)
 * **D3.6 Report of user trials and usability studies**  
-Donegan, M., Cotmore, S., Holmqvist, E., Buchholz, M., Lundalv, M., Pasian, V., Farinetti, L., and Corno, F. (2009). D3.6 Final User Trials Report. Communication by Gaze Interaction (COGAIN), IST-2003-511598: Deliverable 3.6. [File:COGAIN-D3.6.pdf][11]
+Donegan, M., Cotmore, S., Holmqvist, E., Buchholz, M., Lundalv, M., Pasian, V., Farinetti, L., and Corno, F. (2009). D3.6 Final User Trials Report. Communication by Gaze Interaction (COGAIN), IST-2003-511598: Deliverable 3.6. [File:COGAIN-D3.6.pdf](/Doc/COGAIN-D3.6.pdf)
 
 ##  Eye Control Hints and Tips 
 
@@ -78,7 +78,7 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjg5NTk0MSwtNzI0OTk0NTYxLC0xMj
-gyOTEyMjg1LDUzNDU0MTQ2NCwxODY4ODE4MDQ3LDc4MjMwMTI4
-NV19
+eyJoaXN0b3J5IjpbLTE0MTMxMzA5NTcsLTcyNDk5NDU2MSwtMT
+I4MjkxMjI4NSw1MzQ1NDE0NjQsMTg2ODgxODA0Nyw3ODIzMDEy
+ODVdfQ==
 -->
