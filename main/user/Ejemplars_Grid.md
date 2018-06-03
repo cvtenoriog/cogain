@@ -69,7 +69,7 @@ Please contact the company directly using the contact details given above, for f
 [1]: /main/user/Eye_Control_Hints_and_Tips.md
 [2]: http://wiki.cogain.org/index.php/COGAIN_Report_D3.2 "COGAIN Report D3.2"
 [3]: http://wiki.cogain.org/index.php/COGAIN_Report_D3.2#2.3.5_Using_the_eye_to_emulate_mouse_button_control_features "COGAIN Report D3.2"
-[4]: /DocTobiis-Sample-Page-Sets-for-VS-Commonicator.pdf"
+[4]: /Doc/Tobiis-Sample-Page-Sets-for-VS-Commonicator.pdf
 [5]: http://wiki.cogain.org/index.php/Exemplar_Grids%3A_Introductory_Activities "Exemplar Grids: Introductory Activities"
 [6]: http://wiki.cogain.org/images/thumb/2/2f/Faces-grid.jpg/180px-Faces-grid.jpg
 [7]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
@@ -84,5 +84,5 @@ Please contact the company directly using the contact details given above, for f
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjQwMDMyNywtNjY1MDkyMjMzXX0=
+eyJoaXN0b3J5IjpbMTg0ODEwMjc1NCwtNjY1MDkyMjMzXX0=
 -->
