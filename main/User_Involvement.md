@@ -57,11 +57,7 @@ Videos of talks given at the COGAIN 2006 End-User Session
 |---|---|
 |<center>![][19] <br>A photo from COGAIN 2007</br></center>|<center>![][20] <br>A photo from COGAIN 2008</br></center>|
 
-| Format    Tag example |
-| ------------------- |
-| Headings | =heading1=**<br>**==heading2==**<br>**===heading3=== |
-| New paragraph | A blank line starts a new paragraph |
-| Source code block |  // all on one line**<br>** {{{ if (foo) bar else   baz }}} |
+
 
 
 [3]: /main/user/User_Involvement_Users.md
@@ -83,7 +79,7 @@ Videos of talks given at the COGAIN 2006 End-User Session
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMjAwMzg5LDQ5NzU3NTE0MSwtNDk4NT
+eyJoaXN0b3J5IjpbMjExMTkwNjgxLDQ5NzU3NTE0MSwtNDk4NT
 g3MTY2LDk5NDA5ODU3LDIwMjY2NzExNCwxMTg4MDk5MjI4LDEx
 MTk4MzM5MjksLTE0MTMxMzA5NTcsLTcyNDk5NDU2MSwtMTI4Mj
 kxMjI4NSw1MzQ1NDE0NjQsMTg2ODgxODA0Nyw3ODIzMDEyODVd
