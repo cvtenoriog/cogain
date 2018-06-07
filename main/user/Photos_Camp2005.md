@@ -68,17 +68,14 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 [6]: /Img/187px-Chairman_of_city_council.jpg
 [7]: /Img/187px-John_paulin.jpg
 [8]: /Img/300px-Reception2.jpg
-
 [9]: /Img/300px-Chair_howell_istance.jpg
 [10]: /Img/187px-Conference1.jpg
 [11]: /Img/300px-Conference2.jpg
 [12]: /Img/187px-Conference3.jpg
 [13]: /Img/300px-Conference4.jpg
 [14]: /Img/300px-Conference5.jpg
-
 [15]: /Img/300px-Cruise1.jpg
 [16]: /Img/300px-Cruise2.jpg
-
 [17]: /Img/300px-Lousiana_group1.jpg
 [18]: /Img/300px-Lousiana_group2.jpg
 [19]: /Img/300px-Humlebaek_kro.jpg
@@ -93,11 +90,11 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 [28]: /Img/187px-Visioboard.jpg
 [29]: /Img/196px-Arne_lykke_larsen.jpg
 [30]: /Img/300px-Retreat4.jpg
-[31]: http://wiki.cogain.org/images/thumb/1/11/Communicating_with_users.jpg/300px-Communicating_with_users.jpg
-[32]: http://wiki.cogain.org/images/thumb/e/e6/Esa.jpg/300px-Esa.jpg
+[31]: /Img/300px-Communicating_with_users.jpg
+[32]: /Img/300px-Esa.jpg
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDM5NjMyNCwxMjY0NDE1OTk2LC0yMT
-M5NTg2NTc2XX0=
+eyJoaXN0b3J5IjpbLTEwMjA0NDYzMjIsMTI2NDQxNTk5NiwtMj
+EzOTU4NjU3Nl19
 -->
