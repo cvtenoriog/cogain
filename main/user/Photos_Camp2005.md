@@ -50,9 +50,8 @@ The first [COGAIN Camp][1] was organized in Copenhagen, Denmark.
 |![][26]<br>Fraunhofer Eye TRACKR<br>|![][27]<br>LC Eyegaze by LC Technologies<br>|![][28]<br>Typing with Visioboard by Metrovision<br>|
 ![][29]<br>Associate professor Arne Lykke Larsen giving his presentation<br>|||
 
--   [The COGAIN 2007 Proceeding](http://wiki.cogain.org/images/e/e5/COGAIN2007Proceedings.pdf "COGAIN2007Proceedings.pdf")
--   [COGAIN 2007 Videos](http://wiki.cogain.org/index.php/COGAIN2007_Videos "COGAIN2007 Videos")
-- 
+
+
 ##  Research retreats with users on Friday 
 
 |![][30]<br>Research retreat WP3<br>|![][31]<br>Research retreat WP3<br>| ![][32]<br>Research retreat WP3<br>|
@@ -97,6 +96,6 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDcwMzE4LC0xMDIwNDQ2MzIyLDEyNj
-Q0MTU5OTYsLTIxMzk1ODY1NzZdfQ==
+eyJoaXN0b3J5IjpbMTIzMDk3Nzc4OCwtMTAyMDQ0NjMyMiwxMj
+Y0NDE1OTk2LC0yMTM5NTg2NTc2XX0=
 -->
