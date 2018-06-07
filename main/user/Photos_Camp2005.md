@@ -72,32 +72,32 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 [9]: /Img/300px-Chair_howell_istance.jpg
 [10]: /Img/187px-Conference1.jpg
 [11]: /Img/300px-Conference2.jpg
-[12]: http://wiki.cogain.org/images/thumb/d/db/Conference3.jpg/187px-Conference3.jpg
-[13]: http://wiki.cogain.org/images/thumb/2/22/Conference4.jpg/300px-Conference4.jpg
-[14]: http://wiki.cogain.org/images/thumb/8/8e/Conference5.jpg/300px-Conference5.jpg
+[12]: /Img/187px-Conference3.jpg
+[13]: /Img/300px-Conference4.jpg
+[14]: /Img/300px-Conference5.jpg
 
-[15]: http://wiki.cogain.org/images/thumb/7/74/Cruise1.jpg/300px-Cruise1.jpg
-[16]: http://wiki.cogain.org/images/thumb/c/cd/Cruise2.jpg/300px-Cruise2.jpg
+[15]: /Img/300px-Cruise1.jpg
+[16]: /Img/300px-Cruise2.jpg
 
-[17]: http://wiki.cogain.org/images/thumb/3/3e/Lousiana_group1.jpg/300px-Lousiana_group1.jpg
-[18]: http://wiki.cogain.org/images/thumb/9/94/Lousiana_group2.jpg/300px-Lousiana_group2.jpg
-[19]: http://wiki.cogain.org/images/thumb/1/1e/Humlebaek_kro.jpg/300px-Humlebaek_kro.jpg
-[20]: http://wiki.cogain.org/images/thumb/9/9b/Full_openhouse.jpg/300px-Full_openhouse.jpg
-[21]: http://wiki.cogain.org/images/thumb/d/da/Laughter.jpg/187px-Laughter.jpg
-[22]: http://wiki.cogain.org/images/thumb/0/03/Manufact_presentations.jpg/300px-Manufact_presentations.jpg
-[23]: http://wiki.cogain.org/images/thumb/c/c2/Eyechess.jpg/300px-Eyechess.jpg
-[24]: http://wiki.cogain.org/images/thumb/4/49/Kathrin.jpg/300px-Kathrin.jpg
-[25]: http://wiki.cogain.org/images/thumb/f/ff/Kati.jpg/300px-Kati.jpg
-[26]: http://wiki.cogain.org/images/thumb/e/ea/Eyetrackr.jpg/300px-Eyetrackr.jpg
-[27]: http://wiki.cogain.org/images/thumb/2/29/Eyegaze.jpg/300px-Eyegaze.jpg
-[28]: http://wiki.cogain.org/images/thumb/b/bd/Visioboard.jpg/187px-Visioboard.jpg
-[29]: http://wiki.cogain.org/images/thumb/4/44/Arne_lykke_larsen.jpg/196px-Arne_lykke_larsen.jpg
-[30]: http://wiki.cogain.org/images/thumb/1/10/Retreat4.jpg/300px-Retreat4.jpg
+[17]: /Img/300px-Lousiana_group1.jpg
+[18]: /Img/300px-Lousiana_group2.jpg
+[19]: /Img/300px-Humlebaek_kro.jpg
+[20]: /Img/300px-Full_openhouse.jpg
+[21]: /Img/187px-Laughter.jpg
+[22]: /Img/300px-Manufact_presentations.jpg
+[23]: /Img/300px-Eyechess.jpg
+[24]: /Img/300px-Kathrin.jpg
+[25]: /Img/300px-Kati.jpg
+[26]: /Img/300px-Eyetrackr.jpg
+[27]: /Img/300px-Eyegaze.jpg
+[28]: /Img/187px-Visioboard.jpg
+[29]: /Img/196px-Arne_lykke_larsen.jpg
+[30]: /Img/300px-Retreat4.jpg
 [31]: http://wiki.cogain.org/images/thumb/1/11/Communicating_with_users.jpg/300px-Communicating_with_users.jpg
 [32]: http://wiki.cogain.org/images/thumb/e/e6/Esa.jpg/300px-Esa.jpg
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTMxMzg4LDEyNjQ0MTU5OTYsLTIxMz
-k1ODY1NzZdfQ==
+eyJoaXN0b3J5IjpbMTY5MDM5NjMyNCwxMjY0NDE1OTk2LC0yMT
+M5NTg2NTc2XX0=
 -->
