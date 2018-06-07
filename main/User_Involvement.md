@@ -81,15 +81,15 @@ Videos of talks given at the COGAIN 2006 End-User Session
 [18]: http://wiki.cogain.org/images/thumb/0/0d/COGAIN2006-user-and-industry-sessions10.jpg/187px-COGAIN2006-user-and-industry-sessions10.jpg
 [19]: http://wiki.cogain.org/images/thumb/a/ae/COGAIN2007_playing-with-eye-control.jpg/300px-COGAIN2007_playing-with-eye-control.jpg
 [20]: http://wiki.cogain.org/images/thumb/6/6c/COGAIN2008-trying-out-eye-control.jpg/300px-COGAIN2008-trying-out-eye-control.jpg
-[21] /main/user/Photos_Camp2005.md
+[21]: /main/user/Photos_Camp2005.md
 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTU1ODE5MCwxMDA3MDYzMzcwLC0xMj
-U3MjMzOTYwLDkxNzY0ODA5NywxNTcxNTg3NjE5LDIxMTE5MDY4
-MSw0OTc1NzUxNDEsLTQ5ODU4NzE2Niw5OTQwOTg1NywyMDI2Nj
-cxMTQsMTE4ODA5OTIyOCwxMTE5ODMzOTI5LC0xNDEzMTMwOTU3
-LC03MjQ5OTQ1NjEsLTEyODI5MTIyODUsNTM0NTQxNDY0LDE4Nj
-g4MTgwNDcsNzgyMzAxMjg1XX0=
+eyJoaXN0b3J5IjpbLTIxMTUwOTQ4NDgsMTAwNzA2MzM3MCwtMT
+I1NzIzMzk2MCw5MTc2NDgwOTcsMTU3MTU4NzYxOSwyMTExOTA2
+ODEsNDk3NTc1MTQxLC00OTg1ODcxNjYsOTk0MDk4NTcsMjAyNj
+Y3MTE0LDExODgwOTkyMjgsMTExOTgzMzkyOSwtMTQxMzEzMDk1
+NywtNzI0OTk0NTYxLC0xMjgyOTEyMjg1LDUzNDU0MTQ2NCwxOD
+Y4ODE4MDQ3LDc4MjMwMTI4NV19
 -->
