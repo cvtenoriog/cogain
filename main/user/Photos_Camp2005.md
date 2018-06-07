@@ -75,8 +75,10 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 [12]: http://wiki.cogain.org/images/thumb/d/db/Conference3.jpg/187px-Conference3.jpg
 [13]: http://wiki.cogain.org/images/thumb/2/22/Conference4.jpg/300px-Conference4.jpg
 [14]: http://wiki.cogain.org/images/thumb/8/8e/Conference5.jpg/300px-Conference5.jpg
+
 [15]: http://wiki.cogain.org/images/thumb/7/74/Cruise1.jpg/300px-Cruise1.jpg
 [16]: http://wiki.cogain.org/images/thumb/c/cd/Cruise2.jpg/300px-Cruise2.jpg
+
 [17]: http://wiki.cogain.org/images/thumb/3/3e/Lousiana_group1.jpg/300px-Lousiana_group1.jpg
 [18]: http://wiki.cogain.org/images/thumb/9/94/Lousiana_group2.jpg/300px-Lousiana_group2.jpg
 [19]: http://wiki.cogain.org/images/thumb/1/1e/Humlebaek_kro.jpg/300px-Humlebaek_kro.jpg
@@ -96,5 +98,5 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MjYxNzkyLC0yMTM5NTg2NTc2XX0=
+eyJoaXN0b3J5IjpbMTI2NDQxNTk5NiwtMjEzOTU4NjU3Nl19
 -->
