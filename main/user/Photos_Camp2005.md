@@ -10,34 +10,34 @@ The first [COGAIN Camp][1] was organized in Copenhagen, Denmark.
 ##  Research retreats on Monday 
 
 
-|![][10]<br>Research retreat WP1 and WP6<br>|![][11]<br>Research retreat WP1 and WP6<br>| ![][12]<br>Research retreat WP1 and WP6<br>|
+|![][2]<br>Research retreat WP1 and WP6<br>|![][3]<br>Research retreat WP1 and WP6<br>| ![][4]<br>Research retreat WP1 and WP6<br>|
 |:---:|:---:|:---:|
 
 
 ##  City Hall reception on Monday 
 
-|![][13]<br>City Hall reception <br>|![][14]<br>Chairman of the City Council welcoming COGAIN members<br>| ![][15]<br>John Paulin Hansen<br>|
+|![][5]<br>City Hall reception <br>|![][6]<br>Chairman of the City Council welcoming COGAIN members<br>| ![][7]<br>John Paulin Hansen<br>|
 |:---:|:---:|:---:|
-|![][16]<br>City Hall reception<br>|| |
+|![][8]<br>City Hall reception<br>|| |
 
 
 ##  The First Conference on Communication by Gaze Interaction (COGAIN 2005) on Tuesday 
 
-|![][17]<br>Chair Howell Istance<br>|![][18]<br>Conference presentation<br>| ![][19]<br>Conference presentation<br>|
+|![][9]<br>Chair Howell Istance<br>|![][10]<br>Conference presentation<br>| ![][11]<br>Conference presentation<br>|
 |:---:|:---:|:---:|
-|![][20]<br>Conference presentation<br>|![][21]<br>Conference presentation<br>| ![][22]<br>Conference presentation<br>|
+|![][12]<br>Conference presentation<br>|![][13]<br>Conference presentation<br>| ![][14]<br>Conference presentation<br>|
 
 
 
 ##  Canal cruise on Tuesday 
 
-|![][23]<br>Canal cruise<br>|![][24]<br>Canal cruise<br>|
+|![][15]<br>Canal cruise<br>|![][16]<br>Canal cruise<br>|
 |:---:|:---:|
 
 
 ##  Groupwork in Lousiana on Wednesday 
 
-|![][25]<br>Groupwork in Lousiana<br>|![][26]<br>Groupwork in Lousiana<br>| ![][27]<br>The Gamle Humlebaek Kro restaurant<br>|
+|![][17]<br>Groupwork in Lousiana<br>|![][18]<br>Groupwork in Lousiana<br>| ![][19]<br>The Gamle Humlebaek Kro restaurant<br>|
 |:---:|:---:|:---:|
 
 
@@ -95,5 +95,5 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk1ODY1NzZdfQ==
+eyJoaXN0b3J5IjpbLTYxMDU1MzA4NiwtMjEzOTU4NjU3Nl19
 -->
