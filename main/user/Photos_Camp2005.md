@@ -44,16 +44,16 @@ The first [COGAIN Camp][1] was organized in Copenhagen, Denmark.
 
 ##  Open House on Thursday 
 
-|![][28]<br>Open House<br>|![][29]<br>Laughing Kati and Mick<br>| ![][30]<br>Manufacturer presentations<br>|
+|![][20]<br>Open House<br>|![][21]<br>Laughing Kati and Mick<br>| ![][22]<br>Manufacturer presentations<br>|
 |:---:|:---:|:---:|
-|![][31]<br>EyeChess<br>|![][32]<br>Kathrin surfing the Web<br>| ![][33]<br>Kati typing with gaze<br>|
-|![][34]<br>Fraunhofer Eye TRACKR<br>|![][35]<br>LC Eyegaze by LC Technologies<br>|![][36]<br>Typing with Visioboard by Metrovision<br>|
-![][37]<br>Associate professor Arne Lykke Larsen giving his presentation<br>|||
+|![][23]<br>EyeChess<br>|![][24]<br>Kathrin surfing the Web<br>| ![][25]<br>Kati typing with gaze<br>|
+|![][26]<br>Fraunhofer Eye TRACKR<br>|![][27]<br>LC Eyegaze by LC Technologies<br>|![][28]<br>Typing with Visioboard by Metrovision<br>|
+![][29]<br>Associate professor Arne Lykke Larsen giving his presentation<br>|||
 
 
 ##  Research retreats with users on Friday 
 
-|![][38]<br>Research retreat WP3<br>|![][39]<br>Research retreat WP3<br>| ![][40]<br>Research retreat WP3<br>|
+|![][30]<br>Research retreat WP3<br>|![][31]<br>Research retreat WP3<br>| ![][32]<br>Research retreat WP3<br>|
 |:---:|:---:|:---:|
 
 * * *
@@ -61,10 +61,10 @@ The first [COGAIN Camp][1] was organized in Copenhagen, Denmark.
 Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta 
 
 [1]: http://wiki.cogain.org/index.php/COGAIN_Camp_2005 "COGAIN Camp 2005"
-[10]: /Img/300px-Retreat1.jpg
-[11]: /Img/300px-Retreat2.jpg
-[12]: /Img/300px-Retreat3.jpg
-[13]: http://wiki.cogain.org/images/thumb/1/12/Reception1.jpg/300px-Reception1.jpg
+[2]: /Img/300px-Retreat1.jpg
+[3]: /Img/300px-Retreat2.jpg
+[4]: /Img/300px-Retreat3.jpg
+[5]: http://wiki.cogain.org/images/thumb/1/12/Reception1.jpg/300px-Reception1.jpg
 [14]: http://wiki.cogain.org/images/thumb/2/24/Chairman_of_city_council.jpg/187px-Chairman_of_city_council.jpg
 [15]: http://wiki.cogain.org/images/thumb/b/bb/John_paulin.jpg/187px-John_paulin.jpg
 [16]: http://wiki.cogain.org/images/thumb/7/7f/Reception2.jpg/300px-Reception2.jpg
@@ -95,5 +95,6 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDU1MzA4NiwtMjEzOTU4NjU3Nl19
+eyJoaXN0b3J5IjpbLTE3NzE4MzQ2NTUsLTIxMzk1ODY1NzZdfQ
+==
 -->
