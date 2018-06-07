@@ -68,6 +68,7 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 [6]: http://wiki.cogain.org/images/thumb/2/24/Chairman_of_city_council.jpg/187px-Chairman_of_city_council.jpg
 [7]: http://wiki.cogain.org/images/thumb/b/bb/John_paulin.jpg/187px-John_paulin.jpg
 [8]: http://wiki.cogain.org/images/thumb/7/7f/Reception2.jpg/300px-Reception2.jpg
+
 [9]: http://wiki.cogain.org/images/thumb/7/7a/Chair_howell_istance.jpg/300px-Chair_howell_istance.jpg
 [10]: http://wiki.cogain.org/images/thumb/2/22/Conference1.jpg/187px-Conference1.jpg
 [11]: http://wiki.cogain.org/images/thumb/4/47/Conference2.jpg/300px-Conference2.jpg
@@ -86,14 +87,14 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 [24]: http://wiki.cogain.org/images/thumb/4/49/Kathrin.jpg/300px-Kathrin.jpg
 [25]: http://wiki.cogain.org/images/thumb/f/ff/Kati.jpg/300px-Kati.jpg
 [26]: http://wiki.cogain.org/images/thumb/e/ea/Eyetrackr.jpg/300px-Eyetrackr.jpg
-[3527: http://wiki.cogain.org/images/thumb/2/29/Eyegaze.jpg/300px-Eyegaze.jpg
-[36]: http://wiki.cogain.org/images/thumb/b/bd/Visioboard.jpg/187px-Visioboard.jpg
-[37]: http://wiki.cogain.org/images/thumb/4/44/Arne_lykke_larsen.jpg/196px-Arne_lykke_larsen.jpg
-[38]: http://wiki.cogain.org/images/thumb/1/10/Retreat4.jpg/300px-Retreat4.jpg
-[39]: http://wiki.cogain.org/images/thumb/1/11/Communicating_with_users.jpg/300px-Communicating_with_users.jpg
-[40]: http://wiki.cogain.org/images/thumb/e/e6/Esa.jpg/300px-Esa.jpg
+[27]: http://wiki.cogain.org/images/thumb/2/29/Eyegaze.jpg/300px-Eyegaze.jpg
+[28]: http://wiki.cogain.org/images/thumb/b/bd/Visioboard.jpg/187px-Visioboard.jpg
+[29]: http://wiki.cogain.org/images/thumb/4/44/Arne_lykke_larsen.jpg/196px-Arne_lykke_larsen.jpg
+[30]: http://wiki.cogain.org/images/thumb/1/10/Retreat4.jpg/300px-Retreat4.jpg
+[31]: http://wiki.cogain.org/images/thumb/1/11/Communicating_with_users.jpg/300px-Communicating_with_users.jpg
+[32]: http://wiki.cogain.org/images/thumb/e/e6/Esa.jpg/300px-Esa.jpg
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNjc5ODI0LC0yMTM5NTg2NTc2XX0=
+eyJoaXN0b3J5IjpbNDI3MjYxNzkyLC0yMTM5NTg2NTc2XX0=
 -->
