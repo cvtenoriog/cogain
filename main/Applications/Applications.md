@@ -42,7 +42,7 @@ See also:
 * See also [http://www.gazegroup.org/downloads][9] for more applications and a free open-source gaze tracker that works with a web cam!
 
 [1]: /main/Applications/Dasher.md
-[2]: /main/Applications/Gazetalk.md
+[2]: /main/Applications/GazeTalk.md
 [3]: http://wiki.cogain.org/index.php/Gazetalk_Japanese 
 [4]: http://wiki.cogain.org/index.php/Gazetalk_Chinese
 [5]: http://www.oatsoft.org/Software/saw-resources/downloads/2.3
@@ -63,6 +63,6 @@ See also:
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTQwMzE1OSwtNjg0MTE0MzM0LC0xMz
-Y1MDAyMDYzXX0=
+eyJoaXN0b3J5IjpbLTE1NDUwMTIyMTUsLTY4NDExNDMzNCwtMT
+M2NTAwMjA2M119
 -->
