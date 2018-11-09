@@ -54,7 +54,7 @@ See also:
 [9]: http://www.cogain.org/wiki/Eye_Typing_Systems
 [10]: /main/Applications/EyeArt.md
 [11]: /main/Applications/GazeTrain.md
-[12]: http://wiki.cogain.org/index.php/Puzzle "Puzzle"
+[12]: /main/Applications/Puzzle.md
 [13]: http://wiki.cogain.org/index.php/Road_to_Santiago "Road to Santiago"
 [14]: http://wiki.cogain.org/index.php/Snap_Clutch "Snap Clutch"
 [15]: http://wiki.cogain.org/index.php/Leisure_Applications "Leisure Applications"
@@ -63,7 +63,7 @@ See also:
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzU5ODg0OCwxNTczNTE2NDYwLC0yMT
-I4MzM2MzE3LC0xNTQ1MDEyMjE1LC02ODQxMTQzMzQsLTEzNjUw
-MDIwNjNdfQ==
+eyJoaXN0b3J5IjpbMTEwODA5Mjc4OSwxMjQzNTk4ODQ4LDE1Nz
+M1MTY0NjAsLTIxMjgzMzYzMTcsLTE1NDUwMTIyMTUsLTY4NDEx
+NDMzNCwtMTM2NTAwMjA2M119
 -->
