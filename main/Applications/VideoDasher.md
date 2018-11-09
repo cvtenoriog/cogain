@@ -5,7 +5,7 @@ Lisa Oosthuizen interviews Mick Donegan (ACE Centre) about Dasher. Sarah Yeo, an
 
 Click the 'play' button to view the video. 
 
-![][8]
+![](/Videos/Dasher.mp4)
 
 This video, when viewed, will transfer approx. **8.5 MB** data to your device.
 
@@ -21,9 +21,9 @@ For download and more information about Dasher, [please click here][7]...
 [5]: https://www.google.com/intl/en/chrome/browser/
 [6]: http://www.konqueror.org/download/
 [7]: /main/Applications/Dasher.md
-[8]: /Videos/Dasher.mp4
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAwMTUyNTIsLTMyNDAzMjA4MF19
+eyJoaXN0b3J5IjpbLTc1OTM1MTc0MywtMTY3MDAxNTI1MiwtMz
+I0MDMyMDgwXX0=
 -->
