@@ -53,7 +53,7 @@ After starting Snap Clutch you must manually move to the application that you wa
 * [Go here to get Second Life for free](https://join.secondlife.com/)
 * [Go here to get a free 10 day trial of World of Warcraft](https://signup.worldofwarcraft.com/trial/freetrial.html)
 * [Go here to view the Snap Clutch forum](http://www.cogain.org/forum/snapclutch)
-* [Download Snap Clutch](Download Snap Clutch)
+* [Download Snap Clutch](http://php.cs.cse.dmu.ac.uk:6789/svickers/download.html)
 
 [1]: http://wiki.cogain.org/images/thumb/d/d4/SCInterface.jpg/180px-SCInterface.jpg
 [2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
@@ -61,5 +61,5 @@ After starting Snap Clutch you must manually move to the application that you wa
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyOTYxMjQ4XX0=
+eyJoaXN0b3J5IjpbLTEwNDU0NTIxMDldfQ==
 -->
