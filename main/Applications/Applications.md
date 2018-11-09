@@ -13,20 +13,20 @@ Here you can find information about the systems and also download some of them. 
 
 See also: 
 
-* [**Eye typing systems][1]** \- a comprehensive list of gaze based text entry systems developed around the world (not related to COGAIN), with links to system homepages (some of them are available for free download) 
+* [Eye typing systems][1]\- a comprehensive list of gaze based text entry systems developed around the world (not related to COGAIN), with links to system homepages (some of them are available for free download) 
 
 ###  Leisure Applications 
 
-* [**EyeArt][2]** gaze-controlled drawing program 
-* [**GazeTrain][3]** gaze-controlled action oriented puzzle game 
-* [**Puzzle][4]** simple gaze-controlled puzzle 
-* [**Road to Santiago][5]** gaze-controlled adventure game 
-* [**Snap Clutch][6]** application for controlling key and mouse events by gaze, when playing 3D games and interacting in virtual worlds 
+* [EyeArt][2] gaze-controlled drawing program 
+* [GazeTrain][3] gaze-controlled action oriented puzzle game 
+* [Puzzle][4] simple gaze-controlled puzzle 
+* [Road to Santiago][5] gaze-controlled adventure game 
+* [Snap Clutch][6] application for controlling key and mouse events by gaze, when playing 3D games and interacting in virtual worlds 
 * [More...][7]
 
 ###  Introductory Activities 
 
-* [**Exemplar Grids][8]**. Exemplar eye control activities for end-users with complex needs. The exemplar grids include easy, fun, fail proof activities that can be used to assess and introduce eye control. 
+* [Exemplar Grids][8]. Exemplar eye control activities for end-users with complex needs. The exemplar grids include easy, fun, fail proof activities that can be used to assess and introduce eye control. 
 
 ###  Other 
 
@@ -45,5 +45,5 @@ See also:
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc4MTAwMTNdfQ==
+eyJoaXN0b3J5IjpbMTgyMjc1NDI5NV19
 -->
