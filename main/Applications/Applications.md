@@ -58,12 +58,12 @@ See also:
 [13]: /main/Applications/Santiago.md
 [14]: /main/Applications/SnapClutch.md
 [15]: http://wiki.cogain.org/index.php/Leisure_Applications "Leisure Applications"
-[16]: http://wiki.cogain.org/index.php/User_Involvement_Exemplars_Grids "User Involvement Exemplars Grids"
+[16]: /main/Applications/ExemplarsGrids.md
 [17]: http://www.gazegroup.org/downloads
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzI2Njc5MSwtMjA4MjE3OTg0MCwxMj
-QzNTk4ODQ4LDE1NzM1MTY0NjAsLTIxMjgzMzYzMTcsLTE1NDUw
-MTIyMTUsLTY4NDExNDMzNCwtMTM2NTAwMjA2M119
+eyJoaXN0b3J5IjpbLTEyNTIzMTc0NDMsLTIwODIxNzk4NDAsMT
+I0MzU5ODg0OCwxNTczNTE2NDYwLC0yMTI4MzM2MzE3LC0xNTQ1
+MDEyMjE1LC02ODQxMTQzMzQsLTEzNjUwMDIwNjNdfQ==
 -->
