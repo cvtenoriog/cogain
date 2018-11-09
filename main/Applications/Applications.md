@@ -14,8 +14,8 @@ Here you can find information about the systems and also download some of them. 
 -   [Dasher][1]  (available in various languages)
 -   [Gazetalk][2]  (in English, Danish, Italian, German)  
     (Japanese version:  [日本語バージョン][3])  
-    (Chinese version:  [中文版说明](http://wiki.cogain.org/index.php/Gazetalk_Chinese "Gazetalk Chinese"))
--   [SAW - Dasher integration](http://www.oatsoft.org/Software/saw-resources/downloads/2.3), a SAW (Special Access to Windows) selection set that integrates Dasher with SAW. (The link takes you to the OATS open source web page where application is distributed.) See also a video demo:  [File:Dasher and saw.wmv](http://wiki.cogain.org/index.php/File:Dasher_and_saw.wmv "File:Dasher and saw.wmv")
+    (Chinese version:  [中文版说明][4])
+-   [SAW - Dasher integration][5], a SAW (Special Access to Windows) selection set that integrates Dasher with SAW. (The link takes you to the OATS open source web page where application is distributed.) See also a video demo:  [File:Dasher and saw.wmv][6](http://wiki.cogain.org/index.php/File:Dasher_and_saw.wmv "File:Dasher and saw.wmv")
 -   [StarGazer](http://www.gazegroup.org/research/14), an experimental typing system developed by ITU (the link goes to the ITU web pages)
 -   [UKO-II](http://wiki.cogain.org/index.php/UKO-II "UKO-II") See also: 
 
@@ -41,7 +41,8 @@ Here you can find information about the systems and also download some of them. 
 
 [1]: http://wiki.cogain.org/index.php/Dasher
 [2]: http://wiki.cogain.org/index.php/Gazetalk
-[3]: 
+[3]: http://wiki.cogain.org/index.php/Gazetalk_Japanese 
+[4]: http://wiki.cogain.org/index.php/Gazetalk_Chinese
 
 
 [1]: http://www.cogain.org/wiki/Eye_Typing_Systems
@@ -56,5 +57,5 @@ Here you can find information about the systems and also download some of them. 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU2MzgzNDFdfQ==
+eyJoaXN0b3J5IjpbLTUwNTk3Njk1MV19
 -->
