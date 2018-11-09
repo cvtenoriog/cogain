@@ -8,7 +8,7 @@ GazeTalk is a predictive text-entry system for severely disabled people that has
 The goal of the GazeTalk project is to develop an eye-tracking based AAC system that supports several languages, facilitates fast text entry, and is both sufficiently feature-complete to be deployed as the primary AAC tool for users, yet sufficiently flexible and technically advanced to be used for research purposes. The system is designed for several target languages, initially Danish, English, Italian, German and Japanese. 
 
 |![][1]<br>gazetalk v5 screen shot<br>|![][3]<br>gazetalk v5, linked with Dasher - screen shot<br>|
-|:---:||:---:|
+|:---:|:---:|
 
 ### Main Features
 
@@ -102,6 +102,6 @@ Chinese version: [中文版说明][10]
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwNzc4ODUwLDE4NjkxODkyODAsOTMyND
-k4Nzc4XX0=
+eyJoaXN0b3J5IjpbMTQ0NTM5NDc5MCwxODY5MTg5MjgwLDkzMj
+Q5ODc3OF19
 -->
