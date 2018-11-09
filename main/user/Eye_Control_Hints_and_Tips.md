@@ -86,5 +86,5 @@ E. Castellina, F. Corno, L. Farinetti (Politecnico di Torino, Torino, Italy)
 [18]: http://wiki.cogain.org/index.php/File:Quality-of-life.pdf "File:Quality-of-life.pdf"  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDEyMzMzM119
+eyJoaXN0b3J5IjpbLTkzMTIzNzA2MywtMzM0MTIzMzMzXX0=
 -->
