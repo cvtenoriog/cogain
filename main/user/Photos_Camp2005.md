@@ -96,6 +96,6 @@ Photos taken by Anne Aula, Henna Heikkilä, Kimmo Koivunen, and Päivi Majaranta
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDk3Nzc4OCwtMTAyMDQ0NjMyMiwxMj
-Y0NDE1OTk2LC0yMTM5NTg2NTc2XX0=
+eyJoaXN0b3J5IjpbLTQ4NjQ5NzIyMSwxMjMwOTc3Nzg4LC0xMD
+IwNDQ2MzIyLDEyNjQ0MTU5OTYsLTIxMzk1ODY1NzZdfQ==
 -->
