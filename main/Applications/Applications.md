@@ -56,14 +56,14 @@ See also:
 [11]: /main/Applications/GazeTrain.md
 [12]: /main/Applications/Puzzle.md
 [13]: /main/Applications/Santiago.md
-[14]: http://wiki.cogain.org/index.php/Snap_Clutch "Snap Clutch"
+[14]: /main/Applications/SnapClutch.md
 [15]: http://wiki.cogain.org/index.php/Leisure_Applications "Leisure Applications"
 [16]: http://wiki.cogain.org/index.php/User_Involvement_Exemplars_Grids "User Involvement Exemplars Grids"
 [17]: http://www.gazegroup.org/downloads
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIxNzk4NDAsMTI0MzU5ODg0OCwxNT
-czNTE2NDYwLC0yMTI4MzM2MzE3LC0xNTQ1MDEyMjE1LC02ODQx
-MTQzMzQsLTEzNjUwMDIwNjNdfQ==
+eyJoaXN0b3J5IjpbMTAzNzI2Njc5MSwtMjA4MjE3OTg0MCwxMj
+QzNTk4ODQ4LDE1NzM1MTY0NjAsLTIxMjgzMzYzMTcsLTE1NDUw
+MTIyMTUsLTY4NDExNDMzNCwtMTM2NTAwMjA2M119
 -->
