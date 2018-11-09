@@ -39,7 +39,7 @@ See also:
 ###  Other 
 
 * See a video demonstation of applications developed within workpackage 4 in project year 4: File:WP4 tools year4.m4v
-* See also [http://www.gazegroup.org/downloads][9] for more applications and a free open-source gaze tracker that works with a web cam!
+* See also [http://www.gazegroup.org/downloads][17] for more applications and a free open-source gaze tracker that works with a web cam!
 
 [1]: /main/Applications/Dasher.md
 [2]: /main/Applications/GazeTalk.md
@@ -55,14 +55,14 @@ See also:
 [10]: http://wiki.cogain.org/index.php/EyeArt "EyeArt"
 [11]: http://wiki.cogain.org/index.php/GazeTrain "GazeTrain"
 [12]: http://wiki.cogain.org/index.php/Puzzle "Puzzle"
-[5]: http://wiki.cogain.org/index.php/Road_to_Santiago "Road to Santiago"
-[6]: http://wiki.cogain.org/index.php/Snap_Clutch "Snap Clutch"
-[7]: http://wiki.cogain.org/index.php/Leisure_Applications "Leisure Applications"
-[8]: http://wiki.cogain.org/index.php/User_Involvement_Exemplars_Grids "User Involvement Exemplars Grids"
-[9]: http://www.gazegroup.org/downloads
+[13]: http://wiki.cogain.org/index.php/Road_to_Santiago "Road to Santiago"
+[14]: http://wiki.cogain.org/index.php/Snap_Clutch "Snap Clutch"
+[15]: http://wiki.cogain.org/index.php/Leisure_Applications "Leisure Applications"
+[16]: http://wiki.cogain.org/index.php/User_Involvement_Exemplars_Grids "User Involvement Exemplars Grids"
+[17]: http://www.gazegroup.org/downloads
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU0MDg5MTMsLTE1NDUwMTIyMTUsLT
+eyJoaXN0b3J5IjpbLTIxMjgzMzYzMTcsLTE1NDUwMTIyMTUsLT
 Y4NDExNDMzNCwtMTM2NTAwMjA2M119
 -->
