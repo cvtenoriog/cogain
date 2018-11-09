@@ -52,7 +52,7 @@ See also:
 
 
 [9]: http://www.cogain.org/wiki/Eye_Typing_Systems
-[10]: http://wiki.cogain.org/index.php/EyeArt "EyeArt"
+[10]: /main/Applications/EyeArt.md
 [11]: http://wiki.cogain.org/index.php/GazeTrain "GazeTrain"
 [12]: http://wiki.cogain.org/index.php/Puzzle "Puzzle"
 [13]: http://wiki.cogain.org/index.php/Road_to_Santiago "Road to Santiago"
@@ -63,6 +63,6 @@ See also:
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgzMzYzMTcsLTE1NDUwMTIyMTUsLT
-Y4NDExNDMzNCwtMTM2NTAwMjA2M119
+eyJoaXN0b3J5IjpbMTU3MzUxNjQ2MCwtMjEyODMzNjMxNywtMT
+U0NTAxMjIxNSwtNjg0MTE0MzM0LC0xMzY1MDAyMDYzXX0=
 -->
