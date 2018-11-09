@@ -41,7 +41,7 @@ See also:
 * See a video demonstation of applications developed within workpackage 4 in project year 4: File:WP4 tools year4.m4v
 * See also [http://www.gazegroup.org/downloads][9] for more applications and a free open-source gaze tracker that works with a web cam!
 
-[1]: http://wiki.cogain.org/index.php/Dasher
+[1]: /main/Applications/Dasher.md
 [2]: http://wiki.cogain.org/index.php/Gazetalk
 [3]: http://wiki.cogain.org/index.php/Gazetalk_Japanese 
 [4]: http://wiki.cogain.org/index.php/Gazetalk_Chinese
@@ -63,5 +63,5 @@ See also:
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUwMDIwNjNdfQ==
+eyJoaXN0b3J5IjpbLTY4NDExNDMzNCwtMTM2NTAwMjA2M119
 -->
