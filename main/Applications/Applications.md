@@ -11,13 +11,13 @@ Here you can find information about the systems and also download some of them. 
 
 ###  Gaze Communication Systems 
 
--   **[Dasher](http://wiki.cogain.org/index.php/Dasher "Dasher")**  (available in various languages)
--   **[Gazetalk](http://wiki.cogain.org/index.php/Gazetalk "Gazetalk")**  (in English, Danish, Italian, German)  
+-   [Dasher]  (available in various languages)
+-   [Gazetalk](http://wiki.cogain.org/index.php/Gazetalk "Gazetalk")  (in English, Danish, Italian, German)  
     (Japanese version:  [日本語バージョン](http://wiki.cogain.org/index.php/Gazetalk_Japanese "Gazetalk Japanese"))  
     (Chinese version:  [中文版说明](http://wiki.cogain.org/index.php/Gazetalk_Chinese "Gazetalk Chinese"))
--   **[SAW - Dasher integration](http://www.oatsoft.org/Software/saw-resources/downloads/2.3)**, a SAW (Special Access to Windows) selection set that integrates Dasher with SAW. (The link takes you to the OATS open source web page where application is distributed.) See also a video demo:  [File:Dasher and saw.wmv](http://wiki.cogain.org/index.php/File:Dasher_and_saw.wmv "File:Dasher and saw.wmv")
--   **[StarGazer](http://www.gazegroup.org/research/14)**, an experimental typing system developed by ITU (the link goes to the ITU web pages)
--   **[UKO-II](http://wiki.cogain.org/index.php/UKO-II "UKO-II")**See also: 
+-   [SAW - Dasher integration](http://www.oatsoft.org/Software/saw-resources/downloads/2.3), a SAW (Special Access to Windows) selection set that integrates Dasher with SAW. (The link takes you to the OATS open source web page where application is distributed.) See also a video demo:  [File:Dasher and saw.wmv](http://wiki.cogain.org/index.php/File:Dasher_and_saw.wmv "File:Dasher and saw.wmv")
+-   [StarGazer](http://www.gazegroup.org/research/14), an experimental typing system developed by ITU (the link goes to the ITU web pages)
+-   [UKO-II](http://wiki.cogain.org/index.php/UKO-II "UKO-II") See also: 
 
 * [Eye typing systems][1]\- a comprehensive list of gaze based text entry systems developed around the world (not related to COGAIN), with links to system homepages (some of them are available for free download) 
 
@@ -39,6 +39,8 @@ Here you can find information about the systems and also download some of them. 
 * See a video demonstation of applications developed within workpackage 4 in project year 4: File:WP4 tools year4.m4v
 * See also [http://www.gazegroup.org/downloads][9] for more applications and a free open-source gaze tracker that works with a web cam!
 
+[1]: http://wiki.cogain.org/index.php/Dasher
+
 [1]: http://www.cogain.org/wiki/Eye_Typing_Systems
 [2]: http://wiki.cogain.org/index.php/EyeArt "EyeArt"
 [3]: http://wiki.cogain.org/index.php/GazeTrain "GazeTrain"
@@ -51,5 +53,5 @@ Here you can find information about the systems and also download some of them. 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MTk4ODM2XX0=
+eyJoaXN0b3J5IjpbLTc1MDcxNjg4MV19
 -->
