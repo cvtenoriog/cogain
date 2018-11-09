@@ -11,9 +11,9 @@ Here you can find information about the systems and also download some of them. 
 
 ###  Gaze Communication Systems 
 
--   [Dasher]  (available in various languages)
--   [Gazetalk](http://wiki.cogain.org/index.php/Gazetalk "Gazetalk")  (in English, Danish, Italian, German)  
-    (Japanese version:  [日本語バージョン](http://wiki.cogain.org/index.php/Gazetalk_Japanese "Gazetalk Japanese"))  
+-   [Dasher][1]  (available in various languages)
+-   [Gazetalk][2]  (in English, Danish, Italian, German)  
+    (Japanese version:  [日本語バージョン][3])  
     (Chinese version:  [中文版说明](http://wiki.cogain.org/index.php/Gazetalk_Chinese "Gazetalk Chinese"))
 -   [SAW - Dasher integration](http://www.oatsoft.org/Software/saw-resources/downloads/2.3), a SAW (Special Access to Windows) selection set that integrates Dasher with SAW. (The link takes you to the OATS open source web page where application is distributed.) See also a video demo:  [File:Dasher and saw.wmv](http://wiki.cogain.org/index.php/File:Dasher_and_saw.wmv "File:Dasher and saw.wmv")
 -   [StarGazer](http://www.gazegroup.org/research/14), an experimental typing system developed by ITU (the link goes to the ITU web pages)
@@ -40,6 +40,9 @@ Here you can find information about the systems and also download some of them. 
 * See also [http://www.gazegroup.org/downloads][9] for more applications and a free open-source gaze tracker that works with a web cam!
 
 [1]: http://wiki.cogain.org/index.php/Dasher
+[2]: http://wiki.cogain.org/index.php/Gazetalk
+[3]: 
+
 
 [1]: http://www.cogain.org/wiki/Eye_Typing_Systems
 [2]: http://wiki.cogain.org/index.php/EyeArt "EyeArt"
@@ -53,5 +56,5 @@ Here you can find information about the systems and also download some of them. 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDcxNjg4MV19
+eyJoaXN0b3J5IjpbLTEwOTU2MzgzNDFdfQ==
 -->
