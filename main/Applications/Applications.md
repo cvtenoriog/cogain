@@ -48,7 +48,7 @@ See also:
 [5]: http://www.oatsoft.org/Software/saw-resources/downloads/2.3
 [6]: http://wiki.cogain.org/index.php/File:Dasher_and_saw.wmv
 [7]: http://www.gazegroup.org/research/14
-[8]: http://wiki.cogain.org/index.php/UKO-II
+[8]: /main/Applications/UKO.md
 
 
 [1]: http://www.cogain.org/wiki/Eye_Typing_Systems
@@ -63,6 +63,6 @@ See also:
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDUwMTIyMTUsLTY4NDExNDMzNCwtMT
-M2NTAwMjA2M119
+eyJoaXN0b3J5IjpbLTIxMTE2OTI1NDMsLTE1NDUwMTIyMTUsLT
+Y4NDExNDMzNCwtMTM2NTAwMjA2M119
 -->
