@@ -9,7 +9,8 @@ Dasher supports writing, writing to files, writing to other windows, and speakin
 
 Dasher is free software. It was created in the [Inference group][1] at the University of Cambridge. 
 
-
+[http://www.inference.phy.cam.ac.uk/dasher/images/newdasher.gif](
+http://www.inference.phy.cam.ac.uk/dasher/images/newdasher.gif)
 
 ##  Video introduction to Dasher and its features 
 
@@ -32,5 +33,5 @@ By David MacKay
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMzQ4Njc5XX0=
+eyJoaXN0b3J5IjpbLTE1MDEzNDcyODZdfQ==
 -->
