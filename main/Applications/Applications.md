@@ -1,5 +1,3 @@
-
-
 # COGAIN Applications
 
 
@@ -43,7 +41,7 @@ See also:
 
 [1]: /main/Applications/Dasher.md
 [2]: /main/Applications/GazeTalk.md
-[3]: http://wiki.cogain.org/index.php/Gazetalk_Japanese 
+[3]: /main/Applications/GazeTalkJapan.md
 [4]: http://wiki.cogain.org/index.php/Gazetalk_Chinese
 [5]: http://www.oatsoft.org/Software/saw-resources/downloads/2.3
 [6]: http://wiki.cogain.org/index.php/File:Dasher_and_saw.wmv
@@ -60,10 +58,6 @@ See also:
 [15]: http://wiki.cogain.org/index.php/Leisure_Applications "Leisure Applications"
 [16]: /main/Applications/ExemplarsGrids.md
 [17]: http://www.gazegroup.org/downloads
-
-  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIzMTc0NDMsLTIwODIxNzk4NDAsMT
-I0MzU5ODg0OCwxNTczNTE2NDYwLC0yMTI4MzM2MzE3LC0xNTQ1
-MDEyMjE1LC02ODQxMTQzMzQsLTEzNjUwMDIwNjNdfQ==
+eyJoaXN0b3J5IjpbMTIyODI5MDE0OF19
 -->
