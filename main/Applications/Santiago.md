@@ -4,8 +4,9 @@
 
 Gaze-controlled adventure game (FULL GAME!) 
 
-![][1]
-The Road to Santiago - screen shot
+|![][1]<br>The Road to Santiago - screen shot<br>|
+|---|
+
 
 The Road to Santiago (illustrated in the figure above) is a graphic adventure game that can be played solely by eye movements. The player guides the game character along the game. This is a full game (not only a demo version as earlier)! 
 
@@ -52,5 +53,5 @@ Note: The light version does not include game music. If you download the light v
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYxMTQxNzFdfQ==
+eyJoaXN0b3J5IjpbMTE5MDA4NDAyNiwtMTg5NjExNDE3MV19
 -->
