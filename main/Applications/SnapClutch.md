@@ -3,8 +3,9 @@
 
 ##  What it is
 
-![][1]
-Snap Clutch Screenshot
+|![][1]<br>Snap Clutch Screenshot<br>|
+|---|
+
 
 An application that uses eye gaze data to generate key and mouse events for playing games such as World of Warcraft and Second Life. 
 
@@ -61,5 +62,5 @@ After starting Snap Clutch you must manually move to the application that you wa
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU0NTIxMDldfQ==
+eyJoaXN0b3J5IjpbMTM5NjIxNTgsLTEwNDU0NTIxMDldfQ==
 -->
