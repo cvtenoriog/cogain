@@ -12,8 +12,9 @@ The system is customizable to differing keyboard layouts and to the selection of
 
 UKO-II is designed by Karin Harbusch and Michael Kühn in the [University of Koblenz-Landau][3]. Unfortunately UKO-II is not supported at the moment. You can read more about how it functions in a paper found here: [PDF][4]
 
-![][1]
-UKO-II
+|![][1]<br>UKO-II<br>|
+|---|
+
 
 
 
@@ -92,5 +93,5 @@ May we contact you by mail in case we would like to know your opinion about our 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTIwNTQxMzddfQ==
+eyJoaXN0b3J5IjpbMTI0MTMzMDM0MiwtMTc5MjA1NDEzN119
 -->
