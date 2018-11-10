@@ -4,8 +4,9 @@
 
 Gaze-controlled puzzle game. 
 
-|![][1]|
-Puzzle screenshot
+|![][1]<br>Puzzle screenshot<br>|
+|---|
+
 
 The Puzzle (illustrated in the figure on the right) is a simple puzzle game that can be operated by eye movements. 
 
@@ -48,5 +49,5 @@ Please send us your details
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTU4ODE3OCw5MTg1NzYyNjZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTA3ODMwOTEsOTE4NTc2MjY2XX0=
 -->
