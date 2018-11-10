@@ -4,8 +4,9 @@
 
 ##  Gaze-controlled drawing program
 
-![][1]
-EyeArt screen shot
+|![][1]<br>EyeArt screen shot<br>|
+|---|
+
 
 EyeArt (illustrated in the figure on the right) is a drawing program that can be controlled by eye movements. EyeArt includes tools for drawing basic shapes (line, circle, square, etc.), tools for changing color and line width, on-screen keyboard, as well as an inbuilt help and options dialog that can all be controlled by gaze alone. 
 
@@ -56,5 +57,5 @@ Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB).
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTA0MDEyMV19
+eyJoaXN0b3J5IjpbLTE4NzA0NjI4MDZdfQ==
 -->
