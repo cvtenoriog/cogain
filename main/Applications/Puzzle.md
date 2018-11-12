@@ -5,7 +5,7 @@
 Gaze-controlled puzzle game. 
 
 |![][1]<br>Puzzle screenshot<br>|
-|---|
+|:---:|
 
 
 The Puzzle (illustrated in the figure on the right) is a simple puzzle game that can be operated by eye movements. 
@@ -45,9 +45,10 @@ Please send us your details
 [2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
 [3]: /index.php?title=Puzzle_(at)_cogain_(dot)_org&action=edit&redlink=1 "Puzzle (at) cogain (dot) org (page does not exist)"
 [4]: http://www.su.lt/en
-[5]: http://wiki.cogain.org/index.php/File%3ASupuzzle.zip "File:Supuzzle.zip"
+[5]: /Doc/Supuzzle.zip
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA3ODMwOTFdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzk5Nzc4MzAsLTEyMTA3ODMwOTFdfQ
+==
 -->
