@@ -43,7 +43,7 @@ Please send us your details
 * Would you like to receive news on services and updates of the system by e-mail? 
 * May we contact you by mail in case we would like to know your opinion about our systems? 
 
-Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB). 
+Download Eyeart:[File:Tudresdeneyeart.zip][7] (5.8 MB). 
 
 [1]: /Img/180px-Eyeart.jpg
 [2]: /Videos/Tudresden-ea.mp4
@@ -51,11 +51,10 @@ Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB).
 [4]: mailto:eyeart%40cogain.org
 [5]: http://www.tu-dresden.de/
 [6]: http://rcswww.urz.tu-dresden.de/~cogsci/
-[7]: /index.php?title=Student_Competition&action=edit&redlink=1 "Student Competition (page does not exist)"
-[9]: /Doc/Tudresdeneyeart.zip
+[7]: /Doc/Tudresdeneyeart.zip
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzQyNjQ0NSwtMTI0NjE2NTgzMCwtMT
-g3MDQ2MjgwNl19
+eyJoaXN0b3J5IjpbNjY0NTc5MzY5LC0xMjQ2MTY1ODMwLC0xOD
+cwNDYyODA2XX0=
 -->
