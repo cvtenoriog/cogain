@@ -72,7 +72,7 @@ GazeTalk 视频
 
 选择您要下载的版本 (必须) 
 
-* 英文版GazeTalk v.5.2.2 (23 MB) - [File:GazeTalk5 2 2 En.msi](6)
+* 英文版GazeTalk v.5.2.2 (23 MB) - [File:GazeTalk5_2_2_En.msi][6]
 
 
 [1]: http://www.itu.dk
@@ -84,5 +84,6 @@ GazeTalk 视频
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDgxMjI4NywtMTM4NjgwMDYxN119
+eyJoaXN0b3J5IjpbMTQ4MzEzNDYyMSwtOTg0ODEyMjg3LC0xMz
+g2ODAwNjE3XX0=
 -->
