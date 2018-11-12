@@ -8,6 +8,9 @@ Click the 'play' button to view the video.
 ![](/Videos/Dasher.mp4)
 
 
+<a href="/Videos/Dasher.mp4" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 
 This video, when viewed, will transfer approx. **8.5 MB** data to your device.
@@ -27,7 +30,7 @@ For download and more information about Dasher, [please click here][7]...
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTczNjc3OSwxMzUyMzIyODU1LC0xNT
-c5OTE4NjE0LDE1MTM3OTU5ODUsNzQyMTIzNzU5LC03NTkzNTE3
-NDMsLTE2NzAwMTUyNTIsLTMyNDAzMjA4MF19
+eyJoaXN0b3J5IjpbLTk4Mjc0MzIxLDEzNTIzMjI4NTUsLTE1Nz
+k5MTg2MTQsMTUxMzc5NTk4NSw3NDIxMjM3NTksLTc1OTM1MTc0
+MywtMTY3MDAxNTI1MiwtMzI0MDMyMDgwXX0=
 -->
