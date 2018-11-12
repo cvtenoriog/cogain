@@ -18,7 +18,7 @@ EyeArt (illustrated in the figure on the right) is a drawing program that can be
 
 **How to draw with EyeArt video** illustrates basic functions of EyeArt: 
 
-Your web browser is too old to display this video. Please upgrade to a current version.
+![EyeArt][2]
 
 For more information, see the brief [EyeArt documentation][3] (included in the download packet below) 
 
@@ -46,6 +46,7 @@ Please send us your details
 Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB). 
 
 [1]: /Img/180px-Eyeart.jpg
+[2]: /Videos/Tudresden-ea.mp4
 [3]: /Doc/EyeArt_Documentation.pdf
 [4]: mailto:eyeart%40cogain.org
 [5]: http://www.tu-dresden.de/
@@ -55,6 +56,6 @@ Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB).
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzA1NTE3NSwtMTI0NjE2NTgzMCwtMT
+eyJoaXN0b3J5IjpbLTczNzQyNjQ0NSwtMTI0NjE2NTgzMCwtMT
 g3MDQ2MjgwNl19
 -->
