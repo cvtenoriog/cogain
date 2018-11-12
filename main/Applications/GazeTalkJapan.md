@@ -84,9 +84,9 @@ COGAINをお知りになったきっかけ
 [6]: http://www.itu.dk/
 [7]: http://www.itu.dk/research/EyeGazeInteraction/
 [8]: /Doc/ALS_Workshop_Yokohama2006-Japanese.pdf
-[9]: /Doc/ALS_Workshop_Yokohama2006.pdf "ALS Workshop Yokohama2006.pdf"
+[9]: /Doc/ALS_Workshop_Yokohama2006.pdf
 [10]: http://www.cacr.media.teu.ac.jp/grant/als/video/5.asx
-[11]: http://wiki.cogain.org/images/2/23/Gazetalk_jp_final.mov "Gazetalk jp final.mov"
+[11]: /Videos/Gazetalk_jp_final.mov "Gazetalk jp final.mov"
 [12]: http://www.apple.jp/quicktime/download/
 [13]: http://wiki.cogain.org/images/6/6a/GazeTalk5_2_2-manual-jp.pdf "GazeTalk5 2 2-manual-jp.pdf"
 [14]: http://wiki.cogain.org/index.php/Gazetalk "Gazetalk"
@@ -94,5 +94,5 @@ COGAINをお知りになったきっかけ
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMzY4MzQ4LC0yMTExMjE4NTk1XX0=
+eyJoaXN0b3J5IjpbLTk3Mjc2NjcyOCwtMjExMTIxODU5NV19
 -->
