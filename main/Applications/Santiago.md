@@ -45,13 +45,12 @@ Please send us your details
 
 Note: The light version does not include game music. If you download the light version, you can later add the music by downloading the optional music packet. 
 
-[1]: http://wiki.cogain.org/images/thumb/1/13/Road-to-santiago.jpg/180px-Road-to-santiago.jpg
-[2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
+[1]: /Img/180px-Road-to-santiago.jpg
 [3]: mailto:road-to-santiago%40cogain.org
 [4]: http://www.unavarra.es/english/
 [5]: http://wiki.cogain.org/index.php/Second_Student_Competition "Second Student Competition"
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1MTIyMzU2LDExOTAwODQwMjZdfQ==
+eyJoaXN0b3J5IjpbLTU0MjM2NTY5OCwxMTkwMDg0MDI2XX0=
 -->
