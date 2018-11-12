@@ -97,10 +97,14 @@ Chinese version: [中文版说明][10]
 [9]: /main/Applications/GazeTalkJapan.md
 [10]: /main/Applications/GazeTalkChinese.md
 [11]: /main/Applications/GazeTalkSpanish.md
-[12]: /Doc/GazeTalk52 2 En.msi
+[12]: /Doc/GazeTalk5_2_2 En.msi
+[13]: /Doc/GazeTalk5_2_2 Da.msi
+[14]: /Doc/GazeTalk5_2_2 It.msi
+[15]: /Doc/GazeTalk5_2_2 De.msi
+[16]: /Doc/GazeTalk5_2_2 ES.msi
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQwNDY1NTksLTE1MjU5MTM3OCwxND
-Q1Mzk0NzkwLDE4NjkxODkyODAsOTMyNDk4Nzc4XX0=
+eyJoaXN0b3J5IjpbLTgwNzIyMjEyLC0xNTI1OTEzNzgsMTQ0NT
+M5NDc5MCwxODY5MTg5MjgwLDkzMjQ5ODc3OF19
 -->
