@@ -97,10 +97,10 @@ Chinese version: [中文版说明][10]
 [8]: /Doc/Data-recording-in-gazetalk.pdf
 [9]: /main/Applications/GazeTalkJapan.md
 [10]: /main/Applications/GazeTalkChinese.md
-[11]: /main/Applications/GazetalkSpanish.md
+[11]: /main/Applications/GazeTalkSpanish.md
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQxNzg0MTgsMTQ0NTM5NDc5MCwxOD
-Y5MTg5MjgwLDkzMjQ5ODc3OF19
+eyJoaXN0b3J5IjpbLTE1MjU5MTM3OCwxNDQ1Mzk0NzkwLDE4Nj
+kxODkyODAsOTMyNDk4Nzc4XX0=
 -->
