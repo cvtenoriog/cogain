@@ -73,12 +73,11 @@ May we contact you by mail in case we would like to know your opinion about our 
 
 **Select the version to download**
 
-* GazeTalk v.5.2.2 in English (23 MB): [File:GazeTalk5 2 2 En.msi][]
-* GazeTalk v.5.2.2 in Danish (13 MB): [File:GazeTalk5 2 2 Da.msi][]
-* GazeTalk v.5.2.2 in Italian (16 MB): [File:GazeTalk5 2 2 It.msi][]
-* GazeTalk v.5.2.2 in German (15 MB): [File:GazeTalk5 2 2 De.msi][]
-* GazeTalk v.5.2.2 in Spanish (3 MB): [File:GazeTalk5 2 2 ES.msi][]
-* GazeTalk v.5.2.2 full (all languages, 60 MB): [File:GazeTalk5 2 2 Full.msi][]
+* GazeTalk v.5.2.2 in English (23 MB): [File:GazeTalk5 2 2 En.msi][12]
+* GazeTalk v.5.2.2 in Danish (13 MB): [File:GazeTalk5 2 2 Da.msi][13]
+* GazeTalk v.5.2.2 in Italian (16 MB): [File:GazeTalk5 2 2 It.msi][14]
+* GazeTalk v.5.2.2 in German (15 MB): [File:GazeTalk5 2 2 De.msi][15]
+* GazeTalk v.5.2.2 in Spanish (3 MB): [File:GazeTalk5 2 2 ES.msi][16]
 
 ##  Other versions of this page 
 
@@ -98,9 +97,10 @@ Chinese version: [中文版说明][10]
 [9]: /main/Applications/GazeTalkJapan.md
 [10]: /main/Applications/GazeTalkChinese.md
 [11]: /main/Applications/GazeTalkSpanish.md
+[12]: /Doc/GazeTalk52 2 En.msi
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU5MTM3OCwxNDQ1Mzk0NzkwLDE4Nj
-kxODkyODAsOTMyNDk4Nzc4XX0=
+eyJoaXN0b3J5IjpbLTIwNDQwNDY1NTksLTE1MjU5MTM3OCwxND
+Q1Mzk0NzkwLDE4NjkxODkyODAsOTMyNDk4Nzc4XX0=
 -->
