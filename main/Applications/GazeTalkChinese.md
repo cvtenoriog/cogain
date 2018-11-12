@@ -73,7 +73,7 @@ GazeTalk 视频
 选择您要下载的版本 (必须) 
 
 * 英文版GazeTalk v.5.2.2 (23 MB) - [File:GazeTalk5 2 2 En.msi](6)
-* 中文版GazeTalk v.5.2.2 (60 MB) - [File:GazeTalk Chinese.msi](7)
+
 
 [1]: http://www.itu.dk
 [2]: http://www.itu.dk/research/EyeGazeInteraction/
@@ -81,8 +81,8 @@ GazeTalk 视频
 [4]: http://wiki.cogain.org/images/a/ab/GazeTalk.swf "GazeTalk.swf"
 [5]: http://wiki.cogain.org/images/f/fc/GazeTalk_en.wmv
 [6]: /Videos/GazeTalk5_2_2_En.msi
-[7]: /Videos/GazeTalk_Chinese.msi
+
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY4MDA2MTddfQ==
+eyJoaXN0b3J5IjpbLTY1NTg2ODg3MiwtMTM4NjgwMDYxN119
 -->
