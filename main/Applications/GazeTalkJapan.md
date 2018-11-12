@@ -88,11 +88,11 @@ COGAINをお知りになったきっかけ
 [10]: http://www.cacr.media.teu.ac.jp/grant/als/video/5.asx
 [11]: /Videos/Gazetalk_jp_final.mov "Gazetalk jp final.mov"
 [12]: http://www.apple.jp/quicktime/download/
-[13]: http://wiki.cogain.org/images/6/6a/GazeTalk5_2_2-manual-jp.pdf "GazeTalk5 2 2-manual-jp.pdf"
-[14]: http://wiki.cogain.org/index.php/Gazetalk "Gazetalk"
+[13]: /Doc/GazeTalk5_2_2-manual-jp.pdf 
+[14]: /main/Applications/GazeTalk.md
 [15]: http://wiki.cogain.org/images/1/1c/GazeTalk_jp.swf "GazeTalk jp.swf"
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Mjc2NjcyOCwtMjExMTIxODU5NV19
+eyJoaXN0b3J5IjpbNjI2ODQ2ODU4LC0yMTExMjE4NTk1XX0=
 -->
