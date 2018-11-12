@@ -84,14 +84,12 @@ May we contact you by mail in case we would like to know your opinion about our 
 **Download the file here: [File:UKO-II-dl-package.tgz][7]**
 
 [1]: /Img/180px-UKO-II.jpg
-[2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
 [3]: http://www.uni-koblenz-landau.de/
 [4]: http://www.uni-koblenz.de/~harbusch/harbusch-kuehn-eacl2003.pdf
 [5]: mailto:harbusch%40uni-koblenz.de
-[6]: http://wiki.cogain.org#About_UKO-II
-[7]: http://wiki.cogain.org/index.php/File%3AUKO-II-dl-package.tgz "File:UKO-II-dl-package.tgz"
+[7]: /Doc/AUKO-II-dl-package.tgz
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTk3NjMzLDEyNDEzMzAzNDJdfQ==
+eyJoaXN0b3J5IjpbLTExMTM3NTk3NDYsMTI0MTMzMDM0Ml19
 -->
