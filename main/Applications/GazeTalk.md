@@ -43,7 +43,7 @@ Read more [about Gazetalk][6]
 * Watch another YouTube video on a [Talk Given with the Eyes Only by Arne Lykke Larsen]
 * Watch a YouTube video on [ALS-Communication and GazeTalk][], where the developer, Dr. John Paulin Hansen explains how GazeTalk works (in Danish, subtitles in English). The video includes short clips of using GazeTalk and a brief interview of John Paulin Hansen. The video was produced by [www.synvision.dk][], intiative: Birger Bergmann Jeppesen (bigerbj (at) webspeed (dot) dk), for more information, see [www.als-communication.dk][])
 
-##  Download Gazetalk  <a name="DownloadGAze"></a>
+##  Download Gazetalk  <a name="DownloadGazeTalk"></a>
     
     
     PLEASE NOTICE:
@@ -102,6 +102,6 @@ Chinese version: [中文版说明][10]
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQzNzU0NTIsMTQ0NTM5NDc5MCwxOD
-Y5MTg5MjgwLDkzMjQ5ODc3OF19
+eyJoaXN0b3J5IjpbLTI4MTM3MDk2LDE0NDUzOTQ3OTAsMTg2OT
+E4OTI4MCw5MzI0OTg3NzhdfQ==
 -->
