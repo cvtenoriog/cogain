@@ -93,7 +93,7 @@ Chinese version: [中文版说明][10]
 [3]: http://wiki.cogain.org/images/thumb/f/f1/GazeTalk-v5-linked-with-Dasher.jpg/180px-GazeTalk-v5-linked-with-Dasher.jpg
 [4]: http://www.itu.dk/research/EyeGazeInteraction/
 [5]: http://www.itu.dk
-[6]: http://wiki.cogain.org/index.php/Gazetalk_About "Gazetalk About"
+[6]: /main/Applicatioons/Gazetalk_About "Gazetalk About"
 [7]: http://wiki.cogain.org/images/e/ea/Short_manual_for_GazeTalk_5_2_2.pdf "Short manual for GazeTalk 5 2 2.pdf"
 [8]: http://wiki.cogain.org/images/9/93/Data-recording-in-gazetalk.pdf "Data-recording-in-gazetalk.pdf"
 [9]: http://wiki.cogain.org/index.php/Gazetalk_Japanese "Gazetalk Japanese"
@@ -102,6 +102,6 @@ Chinese version: [中文版说明][10]
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTM3MDk2LDE0NDUzOTQ3OTAsMTg2OT
-E4OTI4MCw5MzI0OTg3NzhdfQ==
+eyJoaXN0b3J5IjpbMTk1NDk2NzE4NywxNDQ1Mzk0NzkwLDE4Nj
+kxODkyODAsOTMyNDk4Nzc4XX0=
 -->
