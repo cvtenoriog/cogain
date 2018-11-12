@@ -98,13 +98,13 @@ Chinese version: [中文版说明][10]
 [10]: /main/Applications/GazeTalkChinese.md
 [11]: /main/Applications/GazeTalkSpanish.md
 [12]: /Doc/GazeTalk5_2_2_En.msi
-[13]: /Doc/GazeTalk5_2_2 Da.msi
-[14]: /Doc/GazeTalk5_2_2 It.msi
-[15]: /Doc/GazeTalk5_2_2 De.msi
-[16]: /Doc/GazeTalk5_2_2 ES.msi
+[13]: /Doc/GazeTalk5_2_2_Da.msi
+[14]: /Doc/GazeTalk5_2_2_It.msi
+[15]: /Doc/GazeTalk5_2_2_De.msi
+[16]: /Doc/GazeTalk5_2_2_ES.msi
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQwNTg3NTUsLTE1MjU5MTM3OCwxND
-Q1Mzk0NzkwLDE4NjkxODkyODAsOTMyNDk4Nzc4XX0=
+eyJoaXN0b3J5IjpbLTM1MzMyNjUzMSwtMTUyNTkxMzc4LDE0ND
+UzOTQ3OTAsMTg2OTE4OTI4MCw5MzI0OTg3NzhdfQ==
 -->
