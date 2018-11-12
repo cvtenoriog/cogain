@@ -52,10 +52,10 @@ Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB).
 [6]: http://rcswww.urz.tu-dresden.de/~cogsci/
 [7]: /index.php?title=Student_Competition&action=edit&redlink=1 "Student Competition (page does not exist)"
 [8]: http://wiki.cogain.org#Conditions_of_use
-[9]: http://wiki.cogain.org/index.php/File%3ATudresdeneyeart.zip "File:Tudresdeneyeart.zip"
+[9]: /Doc/Tudresdeneyeart.zip
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDYxNjU4MzAsLTE4NzA0NjI4MDZdfQ
-==
+eyJoaXN0b3J5IjpbLTE0MTc1MzkzOTcsLTEyNDYxNjU4MzAsLT
+E4NzA0NjI4MDZdfQ==
 -->
