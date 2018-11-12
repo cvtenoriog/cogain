@@ -29,7 +29,7 @@ Disabled people can use the system as it is. The systems may also be used for re
 
 November 2006  
 
-[Download Gazetalk][]
+[Download Gazetalk][4]
 
 Hansen, J.P., Lund, H., Aoki, H. and Itoh, K. (2006) Gaze communication systems for people with ALS, ALS Workshop (in conjunction with ALS/MND 2006), Yokohama, Japan [[[File:ALS_Workshop_Yokohama2006.pdf PDF ]]]   
 The presentation given at the workshop can be seen [**here ][5]**
@@ -178,6 +178,6 @@ External, adjustable speakers are recommended.
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc4MjQwNjksLTIwNTE4NTg2MTldfQ
-==
+eyJoaXN0b3J5IjpbLTE3MTk4MTcwOTMsLTIwOTc4MjQwNjksLT
+IwNTE4NTg2MTldfQ==
 -->
