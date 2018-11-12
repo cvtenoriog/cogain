@@ -7,14 +7,10 @@ Click the 'play' button to view the video.
 
 ![](/Videos/Dasher.mp4)
 
-![ Dasher]( /Videos/Dasher.mp4 )
 
-
-<div align="center">
-    <iframe width="620" height="315"
-        src="/Videos/Dasher.mp4">
-    </iframe>
-</div>
+<video width="480" height="320" controls="controls">
+  <source src="/Videos/Dasher.mp4" type="video/mp4">
+</video>
 
 This video, when viewed, will transfer approx. **8.5 MB** data to your device.
 
@@ -33,7 +29,7 @@ For download and more information about Dasher, [please click here][7]...
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk5MTg2MTQsMTUxMzc5NTk4NSw3ND
-IxMjM3NTksLTc1OTM1MTc0MywtMTY3MDAxNTI1MiwtMzI0MDMy
-MDgwXX0=
+eyJoaXN0b3J5IjpbMTM1MjMyMjg1NSwtMTU3OTkxODYxNCwxNT
+EzNzk1OTg1LDc0MjEyMzc1OSwtNzU5MzUxNzQzLC0xNjcwMDE1
+MjUyLC0zMjQwMzIwODBdfQ==
 -->
