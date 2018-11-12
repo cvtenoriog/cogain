@@ -62,5 +62,5 @@ After starting Snap Clutch you must manually move to the application that you wa
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjIxNTgsLTEwNDU0NTIxMDldfQ==
+eyJoaXN0b3J5IjpbMTM5NjIxNThdfQ==
 -->
