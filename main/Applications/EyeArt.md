@@ -45,9 +45,8 @@ Please send us your details
 
 Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB). 
 
-[1]: http://wiki.cogain.org/images/thumb/6/60/Eyeart.jpg/180px-Eyeart.jpg
-[2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
-[3]: http://wiki.cogain.org/images/d/da/EyeArt_Documentation.pdf "EyeArt Documentation.pdf"
+[1]: /Img/180px-Eyeart.jpg
+[3]: /Doc/EyeArt_Documentation.pdf
 [4]: mailto:eyeart%40cogain.org
 [5]: http://www.tu-dresden.de/
 [6]: http://rcswww.urz.tu-dresden.de/~cogsci/
@@ -57,5 +56,6 @@ Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB).
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA0NjI4MDZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDYxNjU4MzAsLTE4NzA0NjI4MDZdfQ
+==
 -->
