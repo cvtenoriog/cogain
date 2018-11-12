@@ -29,7 +29,7 @@ Disabled people can use the system as it is. The systems may also be used for re
 
 November 2006  
 
-[Download Gazetalk](#DownloadGazeTalk)
+[Download Gazetalk][]
 
 Hansen, J.P., Lund, H., Aoki, H. and Itoh, K. (2006) Gaze communication systems for people with ALS, ALS Workshop (in conjunction with ALS/MND 2006), Yokohama, Japan [[[File:ALS_Workshop_Yokohama2006.pdf PDF ]]]   
 The presentation given at the workshop can be seen [**here ][5]**
@@ -165,7 +165,7 @@ External, adjustable speakers are recommended.
 [1]: http://www.secondguess.dk
 [2]: http://www.cogain.org
 [3]: mailto:gazetalk%40itu.dk
-
+[4]: /main/
 [5]: http://www.cacr.media.teu.ac.jp/grant/als/video/5.asx
 [6]: http://itlab.dbit.dk/wikit/index.php/GazeTalk#Installation_errors_etc
 [7]: /Img/GazeTalk5-configuration-email.jpg
@@ -178,5 +178,6 @@ External, adjustable speakers are recommended.
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE4NTg2MTldfQ==
+eyJoaXN0b3J5IjpbLTEwOTY1ODczMDksLTIwNTE4NTg2MTldfQ
+==
 -->
