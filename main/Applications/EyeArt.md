@@ -30,7 +30,6 @@ EyeArt was developed by Andre Meyer and Markus Dittmar at the [Technical Univers
 
 ##  Download EyeArt 
 
-Note that you download and use EyeArt at your own risk (see [conditions of use][8] above). 
 
 Please send us your details 
 
@@ -51,11 +50,10 @@ Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB).
 [5]: http://www.tu-dresden.de/
 [6]: http://rcswww.urz.tu-dresden.de/~cogsci/
 [7]: /index.php?title=Student_Competition&action=edit&redlink=1 "Student Competition (page does not exist)"
-[8]: http://wiki.cogain.org#Conditions_of_use
 [9]: /Doc/Tudresdeneyeart.zip
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc1MzkzOTcsLTEyNDYxNjU4MzAsLT
+eyJoaXN0b3J5IjpbLTEzOTAzNjI2NjksLTEyNDYxNjU4MzAsLT
 E4NzA0NjI4MDZdfQ==
 -->
