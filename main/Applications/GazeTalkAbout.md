@@ -165,7 +165,7 @@ External, adjustable speakers are recommended.
 [1]: http://www.secondguess.dk
 [2]: http://www.cogain.org
 [3]: mailto:gazetalk%40itu.dk
-[4]: /main/
+[4]: /main/Applications/GazeTalk.md
 [5]: http://www.cacr.media.teu.ac.jp/grant/als/video/5.asx
 [6]: http://itlab.dbit.dk/wikit/index.php/GazeTalk#Installation_errors_etc
 [7]: /Img/GazeTalk5-configuration-email.jpg
@@ -178,6 +178,6 @@ External, adjustable speakers are recommended.
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY1ODczMDksLTIwNTE4NTg2MTldfQ
+eyJoaXN0b3J5IjpbLTIwOTc4MjQwNjksLTIwNTE4NTg2MTldfQ
 ==
 -->
