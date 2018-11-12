@@ -34,8 +34,8 @@ GazeTalk 5.0 是由[哥本哈根信息技术大学][1]的[眼睛凝视交互研�
 |![][3]<br>gazetalk v5 screen shot<br>|
 |:---:|
 
-* [更多有关Gazetalk的信息](http://wiki.cogain.org/images/6/60/Gazetalk_manual_ch.pdf)
-* [如何在GazeTalk中收集数据](http://wiki.cogain.org/images/1/1b/Data_recording_ch.pdf)
+* [更多有关Gazetalk的信息](/Doc/Gazetalk_manual_ch.pdf)
+* [如何在GazeTalk中收集数据](/Doc/Data_recording_ch.pdf)
 
 GazeTalk 视频  
 * GazeTalk及其功能的介绍 
@@ -84,5 +84,5 @@ GazeTalk 视频
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTg2ODg3MiwtMTM4NjgwMDYxN119
+eyJoaXN0b3J5IjpbLTYwMzI5NTU4OCwtMTM4NjgwMDYxN119
 -->
