@@ -79,11 +79,11 @@ COGAINをお知りになったきっかけ
 
 [1]: /Img/180px-Gazetalk5-frontpage.jpg
 [3]: /Img/180px-GazeTalk-v5-linked-with-Dasher.jpg
-[4]: http://wiki.cogain.org/images/thumb/2/26/GazeTalk-v5-Japanese.jpg/180px-GazeTalk-v5-Japanese.jpg
-[5]: http://wiki.cogain.org/images/thumb/e/ec/GazeTalk-v5-linked-with-Dasher_Japanese.jpg/180px-GazeTalk-v5-linked-with-Dasher_Japanese.jpg
+[4]: /Img/180px-GazeTalk-v5-Japanese.jpg
+[5]: /Img/180px-GazeTalk-v5-linked-with-Dasher_Japanese.jpg
 [6]: http://www.itu.dk/
 [7]: http://www.itu.dk/research/EyeGazeInteraction/
-[8]: http://wiki.cogain.org/images/d/d0/ALS_Workshop_Yokohama2006-Japanese.pdf "ALS Workshop Yokohama2006-Japanese.pdf"
+[8]: /Doc/ALS_Workshop_Yokohama2006-Japanese.pdf
 [9]: http://wiki.cogain.org/images/a/a2/ALS_Workshop_Yokohama2006.pdf "ALS Workshop Yokohama2006.pdf"
 [10]: http://www.cacr.media.teu.ac.jp/grant/als/video/5.asx
 [11]: http://wiki.cogain.org/images/2/23/Gazetalk_jp_final.mov "Gazetalk jp final.mov"
@@ -94,5 +94,6 @@ COGAINをお知りになったきっかけ
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODQxMTM0LC0yMTExMjE4NTk1XX0=
+eyJoaXN0b3J5IjpbLTEwNTg2MDc2OTUsLTIxMTEyMTg1OTVdfQ
+==
 -->
