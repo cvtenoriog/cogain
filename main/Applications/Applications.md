@@ -57,6 +57,5 @@ See also:
 [16]: /main/Applications/ExemplarsGrids.md
 [17]: http://www.gazegroup.org/downloads
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDI4ODkxMSwtNjM0Nzc4MTUsMTUwND
-k3OTMwNCwxMjI4MjkwMTQ4XX0=
+eyJoaXN0b3J5IjpbMTU1NDI4ODkxMV19
 -->
