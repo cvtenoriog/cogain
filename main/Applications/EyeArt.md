@@ -22,14 +22,15 @@ Your web browser is too old to display this video. Please upgrade to a current v
 
 For more information, see the brief [EyeArt documentation][3] (included in the download packet below) 
 
-##  Conditions of use
+##  Conditions of use 
 
 EyeArt is freely available for personal use by people with disabilities. You may download and use it at your own risk. COGAIN or the developers will not be responsible for any possible damages caused by the EyeArt program. The program is distributed as it is. Unfortunately, we do not have resources to provide support or assist with any technical problems that may occur. However, if you have any comments or want to report bugs, feel free to email us at [eyeart (at) cogain (dot) org][4]. 
 
-EyeArt was developed by Andre Meyer and Markus Dittmar at the [Technical University of Dresden][5], [Applied Cognitive Research Unit][6]. TU Dresden is a partner of the COGAIN network. EyeArt was one of the top winner applications in the [COGAIN student competition][7]. 
+EyeArt was developed by Andre Meyer and Markus Dittmar at the [Technical University of Dresden][5], [Applied Cognitive Research Unit][6]. TU Dresden is a partner of the COGAIN network. EyeArt was one of the top winner applications in the COGAIN student competition. 
 
 ##  Download EyeArt 
 
+Note that you download and use EyeArt at your own risk (see [conditions of use](http://wiki.cogain.org/index.php/EyeArt#Conditions_of_use) above).
 
 Please send us your details 
 
@@ -54,6 +55,6 @@ Download Eyeart:[File:Tudresdeneyeart.zip][9] (5.8 MB).
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTAzNjI2NjksLTEyNDYxNjU4MzAsLT
+eyJoaXN0b3J5IjpbLTE2Mjc3OTU1NjUsLTEyNDYxNjU4MzAsLT
 E4NzA0NjI4MDZdfQ==
 -->
