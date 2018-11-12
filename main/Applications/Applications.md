@@ -42,7 +42,7 @@ See also:
 [1]: /main/Applications/Dasher.md
 [2]: /main/Applications/GazeTalk.md
 [3]: /main/Applications/GazeTalkJapan.md
-[4]: http://wiki.cogain.org/index.php/Gazetalk_Chinese
+[4]: /main/Applications/GazeTalkChinese.md
 [5]: http://www.oatsoft.org/Software/saw-resources/downloads/2.3
 [6]: http://wiki.cogain.org/index.php/File:Dasher_and_saw.wmv
 [7]: http://www.gazegroup.org/research/14
@@ -55,9 +55,9 @@ See also:
 [12]: /main/Applications/Puzzle.md
 [13]: /main/Applications/Santiago.md
 [14]: /main/Applications/SnapClutch.md
-[15]: http://wiki.cogain.org/index.php/Leisure_Applications "Leisure Applications"
+[15]: http://wiki.cogain.org/index.php/Leisure_Applications 
 [16]: /main/Applications/ExemplarsGrids.md
 [17]: http://www.gazegroup.org/downloads
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODI5MDE0OF19
+eyJoaXN0b3J5IjpbMTUwNDk3OTMwNCwxMjI4MjkwMTQ4XX0=
 -->
