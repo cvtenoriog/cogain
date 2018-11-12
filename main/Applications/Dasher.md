@@ -33,6 +33,5 @@ By David MacKay
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc2ODAxODYsMTA1NTI1NjkxNSwtMT
-UwMTM0NzI4Nl19
+eyJoaXN0b3J5IjpbLTExNzc2ODAxODZdfQ==
 -->
