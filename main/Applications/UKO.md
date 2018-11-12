@@ -18,7 +18,7 @@ UKO-II is designed by Karin Harbusch and Michael Kühn in the [University of Kob
 
 
 
-##  About UKO-II  <a name="ConditionUse"></a>
+##  About UKO-II  <a name="AboutUKO"></a>
 
 **In order to run UKO-II, you have to do the following:**  
 
@@ -58,7 +58,7 @@ Finish with "Select".
 
 ##  Download UKO-II 
 
-Please read the information [About UKO-II][6] carefully before you download UKO-II. 
+Please read the information [About UKO-II](#AboutUKO) carefully before you download UKO-II. 
 
 Please tell us more about you before you download UKO-II: 
 
@@ -83,7 +83,7 @@ May we contact you by mail in case we would like to know your opinion about our 
   
 **Download the file here: [File:UKO-II-dl-package.tgz][7]**
 
-[1]: http://wiki.cogain.org/images/thumb/5/57/UKO-II.jpg/180px-UKO-II.jpg
+[1]: /Img/180px-UKO-II.jpg
 [2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
 [3]: http://www.uni-koblenz-landau.de/
 [4]: http://www.uni-koblenz.de/~harbusch/harbusch-kuehn-eacl2003.pdf
@@ -93,5 +93,5 @@ May we contact you by mail in case we would like to know your opinion about our 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjExMDE2MjUsMTI0MTMzMDM0Ml19
+eyJoaXN0b3J5IjpbMTAwMTk3NjMzLDEyNDEzMzAzNDJdfQ==
 -->
