@@ -47,18 +47,16 @@ See also:
 [6]: /Videos/Dasher_and_saw.wmv
 [7]: http://www.gazegroup.org/research/14
 [8]: /main/Applications/UKO.md
-
-
 [9]: http://www.cogain.org/wiki/Eye_Typing_Systems
 [10]: /main/Applications/EyeArt.md
 [11]: /main/Applications/GazeTrain.md
 [12]: /main/Applications/Puzzle.md
 [13]: /main/Applications/Santiago.md
 [14]: /main/Applications/SnapClutch.md
-[15]: http://wiki.cogain.org/index.php/Leisure_Applications 
+[15]: /main/Applications/LeisureApp.md
 [16]: /main/Applications/ExemplarsGrids.md
 [17]: http://www.gazegroup.org/downloads
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDc3ODE1LDE1MDQ5NzkzMDQsMTIyOD
-I5MDE0OF19
+eyJoaXN0b3J5IjpbMTU1NDI4ODkxMSwtNjM0Nzc4MTUsMTUwND
+k3OTMwNCwxMjI4MjkwMTQ4XX0=
 -->
