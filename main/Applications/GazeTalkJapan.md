@@ -85,17 +85,17 @@ COGAINをお知りになったきっかけ
 [8]: /Doc/ALS_Workshop_Yokohama2006-Japanese.pdf
 [9]: /Doc/ALS_Workshop_Yokohama2006.pdf
 [10]: http://www.cacr.media.teu.ac.jp/grant/als/video/5.asx
-[11]: /Videos/Gazetalk_jp_final.mov "Gazetalk jp final.mov"
+[11]: /Videos/Gazetalk_jp_final.mov
 [12]: http://www.apple.jp/quicktime/download/
 [13]: /Doc/GazeTalk5_2_2-manual-jp.pdf 
 [14]: /main/Applications/GazeTalk.md
 [15]: /Doc/GazeTalk_jp.swf
 [16]: /Videos/GazeTalk5_2_2_Jp.msi
-[17]: /Videos/GazeTalk5_2_2_Jp.msi
-[18]: /Videos/GazeTalk5_2_2_Jp.msi
-[19]: /Videos/GazeTalk5_2_2_Jp.msi
+[17]: /Videos/GazeTalk5_2_2_En.msi
+[18]: /Videos/GazeTalk5_2_2_Da.msi
+[19]: /Videos/GazeTalk5_2_2_It.msi
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDE3NTk3NywtMjExMTIxODU5NV19
+eyJoaXN0b3J5IjpbMjEyNzMxNjkyMywtMjExMTIxODU5NV19
 -->
