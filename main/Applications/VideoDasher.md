@@ -7,6 +7,8 @@ Click the 'play' button to view the video.
 
 ![](/Videos/Dasher.mp4)
 
+![ Dasher]( /Videos/Dasher.mp4 )
+
 
 <div align="center">
     <iframe width="620" height="315"
@@ -31,6 +33,7 @@ For download and more information about Dasher, [please click here][7]...
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzc5NTk4NSw3NDIxMjM3NTksLTc1OT
-M1MTc0MywtMTY3MDAxNTI1MiwtMzI0MDMyMDgwXX0=
+eyJoaXN0b3J5IjpbLTE1Nzk5MTg2MTQsMTUxMzc5NTk4NSw3ND
+IxMjM3NTksLTc1OTM1MTc0MywtMTY3MDAxNTI1MiwtMzI0MDMy
+MDgwXX0=
 -->
