@@ -8,9 +8,12 @@ Click the 'play' button to view the video.
 ![](/Videos/Dasher.mp4)
 
 
-<video width="480" height="320" controls="controls">
-  <source src="/Videos/Dasher.mp4" type="video/mp4">
+<video id="pelican-installation" class="video-js vjs-default-skin" controls
+preload="auto" width="683" height="384" poster="/static/screencasts/pelican-installation.png"
+data-setup="{}">
+<source src="/Videos/Dasher.mp4" type='video/mp4'>
 </video>
+
 
 This video, when viewed, will transfer approx. **8.5 MB** data to your device.
 
@@ -29,7 +32,7 @@ For download and more information about Dasher, [please click here][7]...
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjMyMjg1NSwtMTU3OTkxODYxNCwxNT
-EzNzk1OTg1LDc0MjEyMzc1OSwtNzU5MzUxNzQzLC0xNjcwMDE1
-MjUyLC0zMjQwMzIwODBdfQ==
+eyJoaXN0b3J5IjpbMjM0NjY3NDY2LDEzNTIzMjI4NTUsLTE1Nz
+k5MTg2MTQsMTUxMzc5NTk4NSw3NDIxMjM3NTksLTc1OTM1MTc0
+MywtMTY3MDAxNTI1MiwtMzI0MDMyMDgwXX0=
 -->
