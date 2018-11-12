@@ -90,9 +90,9 @@ COGAINをお知りになったきっかけ
 [12]: http://www.apple.jp/quicktime/download/
 [13]: /Doc/GazeTalk5_2_2-manual-jp.pdf 
 [14]: /main/Applications/GazeTalk.md
-[15]: http://wiki.cogain.org/images/1/1c/GazeTalk_jp.swf "GazeTalk jp.swf"
+[15]: /Doc/GazeTalk_jp.swf
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2ODQ2ODU4LC0yMTExMjE4NTk1XX0=
+eyJoaXN0b3J5IjpbODMzNzcxMDg3LC0yMTExMjE4NTk1XX0=
 -->
