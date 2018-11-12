@@ -24,7 +24,7 @@ For detailed instructions on how to install, uninstall, operate and play the gam
 
 Road to Santiago is freely available for personal use by people with disabilities. You may download and use it at your own risk. COGAIN or the developers will not be responsible for any possible damages caused by The Road to Santiago program. The program is distributed as it is. Unfortunately, we do not have resources to provide support or assist with any technical problems that may occur. However, if you have any comments or want to report bugs, feel free to email us at [road-to-santiago (at) cogain (dot) org][3]. 
 
-The Road to Santiago was developed by Javier Hernandez Sanchiz, [Public University of Navarre][4], Spain. The Public University of Navarre is a partner of the COGAIN network. Road to Santiago was one of the top winner applications in the [COGAIN Student Competition][5]. 
+The Road to Santiago was developed by Javier Hernandez Sanchiz, [Public University of Navarre][4], Spain. The Public University of Navarre is a partner of the COGAIN network. Road to Santiago was one of the top winner applications in the COGAIN Student Competition. 
 
 ##  Download Road to Santiago 
 
@@ -48,9 +48,8 @@ Note: The light version does not include game music. If you download the light v
 [1]: /Img/180px-Road-to-santiago.jpg
 [3]: mailto:road-to-santiago%40cogain.org
 [4]: http://www.unavarra.es/english/
-[5]: http://wiki.cogain.org/index.php/Second_Student_Competition "Second Student Competition"
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjM2NTY5OCwxMTkwMDg0MDI2XX0=
+eyJoaXN0b3J5IjpbLTE0MTMyMjg2NjcsMTE5MDA4NDAyNl19
 -->
