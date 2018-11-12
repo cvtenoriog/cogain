@@ -67,7 +67,7 @@ COGAINをお知りになったきっかけ
 
 ダウンロードするバージョンを選択してください (Required) 
 
-* GazeTalk v.5.2.2 日本語版 (24 MB) *) - File:GazeTalk5 2 2 Jp.msi
+* GazeTalk v.5.2.2 日本語版 (24 MB) *) - [File:GazeTalk5_2_2_Jp.msi][]
 * GazeTalk v.5.2.2 英語版 (23 MB) - File:GazeTalk5 2 2 En.msi
 * GazeTalk v.5.1.2 デンマーク語版(13 MB) - File:GazeTalk5 2 2 Da.msi
 * GazeTalk v.5 イタリア語版 (16 MB) - File:GazeTalk5 2 2 It.msi
@@ -91,8 +91,10 @@ COGAINをお知りになったきっかけ
 [13]: /Doc/GazeTalk5_2_2-manual-jp.pdf 
 [14]: /main/Applications/GazeTalk.md
 [15]: /Doc/GazeTalk_jp.swf
+[16]: /Videos/
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNzcxMDg3LC0yMTExMjE4NTk1XX0=
+eyJoaXN0b3J5IjpbLTE3NDMxNDgwNTEsLTIxMTEyMTg1OTVdfQ
+==
 -->
