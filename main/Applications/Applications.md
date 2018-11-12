@@ -44,7 +44,7 @@ See also:
 [3]: /main/Applications/GazeTalkJapan.md
 [4]: /main/Applications/GazeTalkChinese.md
 [5]: http://www.oatsoft.org/Software/saw-resources/downloads/2.3
-[6]: http://wiki.cogain.org/index.php/File:Dasher_and_saw.wmv
+[6]: /Videos/Dasher_and_saw.wmv
 [7]: http://www.gazegroup.org/research/14
 [8]: /main/Applications/UKO.md
 
@@ -59,5 +59,6 @@ See also:
 [16]: /main/Applications/ExemplarsGrids.md
 [17]: http://www.gazegroup.org/downloads
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDk3OTMwNCwxMjI4MjkwMTQ4XX0=
+eyJoaXN0b3J5IjpbLTYzNDc3ODE1LDE1MDQ5NzkzMDQsMTIyOD
+I5MDE0OF19
 -->
