@@ -25,7 +25,5 @@ For download and more information about Dasher, [please click here][7]...
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMTIzNzU5LC05ODI3NDMyMSwxMzUyMz
-IyODU1LC0xNTc5OTE4NjE0LDE1MTM3OTU5ODUsNzQyMTIzNzU5
-LC03NTkzNTE3NDMsLTE2NzAwMTUyNTIsLTMyNDAzMjA4MF19
+eyJoaXN0b3J5IjpbNzQyMTIzNzU5XX0=
 -->
