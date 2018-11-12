@@ -78,11 +78,11 @@ GazeTalk 视频
 [1]: http://www.itu.dk
 [2]: http://www.itu.dk/research/EyeGazeInteraction/
 [3]: http://wiki.cogain.org/images/3/37/Gazetalk_interface.jpg
-[4]: http://wiki.cogain.org/images/a/ab/GazeTalk.swf "GazeTalk.swf"
+[4]: /Doc/GazeTalk.swf 
 [5]: http://wiki.cogain.org/images/f/fc/GazeTalk_en.wmv
 [6]: /Videos/GazeTalk5_2_2_En.msi
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzI5NTU4OCwtMTM4NjgwMDYxN119
+eyJoaXN0b3J5IjpbMTUyMTA0MjE1MiwtMTM4NjgwMDYxN119
 -->
