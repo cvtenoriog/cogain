@@ -56,11 +56,10 @@ After starting Snap Clutch you must manually move to the application that you wa
 * [Go here to view the Snap Clutch forum](http://www.cogain.org/forum/snapclutch)
 * [Download Snap Clutch](http://php.cs.cse.dmu.ac.uk:6789/svickers/download.html)
 
-[1]: http://wiki.cogain.org/images/thumb/d/d4/SCInterface.jpg/180px-SCInterface.jpg
-[2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
+[1]: /Img/180px-SCInterface.jpg
 [3]: http://www.cogain.org/forum/snapclutch
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjIxNThdfQ==
+eyJoaXN0b3J5IjpbLTEzMTYwMzkxMzUsMTM5NjIxNThdfQ==
 -->
