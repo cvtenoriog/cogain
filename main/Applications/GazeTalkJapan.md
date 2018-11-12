@@ -77,9 +77,8 @@ COGAINをお知りになったきっかけ
 (*) GazeTalk日本語版を利用する際には、日本語版WindowsOSが必要です。  
 (Please note that the Japanese version of GazeTalk requires Japanese version of the Windows operating system.) 
 
-[1]: http://wiki.cogain.org/images/thumb/8/88/Gazetalk5-frontpage.jpg/180px-Gazetalk5-frontpage.jpg
-[2]: http://wiki.cogain.org/skins/common/images/magnify-clip.png
-[3]: http://wiki.cogain.org/images/thumb/f/f1/GazeTalk-v5-linked-with-Dasher.jpg/180px-GazeTalk-v5-linked-with-Dasher.jpg
+[1]: /Img/180px-Gazetalk5-frontpage.jpg
+[3]: /Img/180px-GazeTalk-v5-linked-with-Dasher.jpg
 [4]: http://wiki.cogain.org/images/thumb/2/26/GazeTalk-v5-Japanese.jpg/180px-GazeTalk-v5-Japanese.jpg
 [5]: http://wiki.cogain.org/images/thumb/e/ec/GazeTalk-v5-linked-with-Dasher_Japanese.jpg/180px-GazeTalk-v5-linked-with-Dasher_Japanese.jpg
 [6]: http://www.itu.dk/
@@ -95,5 +94,5 @@ COGAINをお知りになったきっかけ
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTEyMTg1OTVdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODQxMTM0LC0yMTExMjE4NTk1XX0=
 -->
