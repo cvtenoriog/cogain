@@ -88,8 +88,8 @@ Chinese version: [中文版说明][10]
 
 [ Spanish version][11]
 
-[1]: /Img/Gazetalk5-frontpage.jpg
-[3]: http://wiki.cogain.org/images/thumb/f/f1/GazeTalk-v5-linked-with-Dasher.jpg/180px-GazeTalk-v5-linked-with-Dasher.jpg
+[1]: /Img/180px-Gazetalk5-frontpage.jpg
+[3]: /Img/180px-GazeTalk-v5-linked-with-Dasher.jpg
 [4]: http://www.itu.dk/research/EyeGazeInteraction/
 [5]: http://www.itu.dk
 [6]: /main/Applicatioons/Gazetalk_About
@@ -101,6 +101,6 @@ Chinese version: [中文版说明][10]
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTY3NDE1NiwxNDQ1Mzk0NzkwLDE4Nj
-kxODkyODAsOTMyNDk4Nzc4XX0=
+eyJoaXN0b3J5IjpbLTE5NDYyMjg0MzAsMTQ0NTM5NDc5MCwxOD
+Y5MTg5MjgwLDkzMjQ5ODc3OF19
 -->
