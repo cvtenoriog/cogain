@@ -27,11 +27,12 @@ Read more [About Dasher][3]
 By David MacKay 
 
 [1]: http://www.inference.phy.cam.ac.uk/
-[2]: main/Applications/VideoDasher.md
+[2]: /main/Applications/VideoDasher.md
 [3]: http://www.inference.phy.cam.ac.uk/dasher/
 [4]: http://www.inference.phy.cam.ac.uk/dasher/Download.html
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTI1NjkxNSwtMTUwMTM0NzI4Nl19
+eyJoaXN0b3J5IjpbLTExNzc2ODAxODYsMTA1NTI1NjkxNSwtMT
+UwMTM0NzI4Nl19
 -->
