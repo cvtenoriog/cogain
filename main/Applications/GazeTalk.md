@@ -94,13 +94,13 @@ Chinese version: [中文版说明][10]
 [5]: http://www.itu.dk
 [6]: /main/Applications/GazeTalkAbout.md
 [7]: /Doc/Short_manual_for_GazeTalk_5_2_2.pdf
-[8]: http://wiki.cogain.org/images/9/93/Data-recording-in-gazetalk.pdf "Data-recording-in-gazetalk.pdf"
-[9]: http://wiki.cogain.org/index.php/Gazetalk_Japanese "Gazetalk Japanese"
-[10]: http://wiki.cogain.org/index.php/Gazetalk_Chinese "Gazetalk Chinese"
-[11]: http://wiki.cogain.org/index.php/Gazetalk_Spanish "Gazetalk Spanish"
+[8]: /Doc/Data-recording-in-gazetalk.pdf
+[9]: /main/Applications/GazeTalkJapan.md
+[10]: /main/Applications/GazeTalkChinese.md
+[11]: /main/Applications/GazetalkSpanish.md
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNTI0OTQ2LDE0NDUzOTQ3OTAsMTg2OT
-E4OTI4MCw5MzI0OTg3NzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NjQxNzg0MTgsMTQ0NTM5NDc5MCwxOD
+Y5MTg5MjgwLDkzMjQ5ODc3OF19
 -->
